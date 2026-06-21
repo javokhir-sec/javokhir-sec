@@ -39,9 +39,10 @@ maintainers ship fixes.
 
 > Coordinated disclosures. Entries are added here once an advisory/CVE is published.
 
-| CVE / Advisory | Product | Type | Severity | Status |
-|----------------|---------|------|----------|--------|
-| _pending_ | 299Ko CMS | Reflected XSS (CWE-79) | Medium (6.1) | Reported – awaiting fix |
+| # | Type | Severity | Status |
+|---|------|----------|--------|
+| 1 | Reflected XSS (CWE-79) | Medium (6.1) | Coordinated disclosure — vendor notified, awaiting fix |
+| 2 | Broken Access Control / Missing Authorization (CWE-862) | High (8.2) | Coordinated disclosure — awaiting fix & CVE |
 
 <!-- CVE tasdiqlangach shu jadvalga qator qo'shing, masalan:
 | [CVE-2026-XXXXX](https://www.cve.org/CVERecord?id=CVE-2026-XXXXX) | Product | Path Traversal | High | Published |
