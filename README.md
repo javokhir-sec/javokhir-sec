@@ -1,15 +1,15 @@
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Javokhir%20Tursunboyev&fontColor=ffffff&fontSize=42&desc=Security%20Researcher%20%C2%B7%20Web%20AppSec%20%C2%B7%20Source-Code%20Auditing&descSize=18&descAlignY=62" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Javokhir%20Tursunboyev&fontColor=ffffff&fontSize=42&desc=Security%20Researcher%20%C2%B7%20Web%20AppSec%20%C2%B7%20Penetration%20Testing&descSize=18&descAlignY=62" alt="header"/>
 </a>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Finding+vulnerabilities+in+open-source+software;XSS+%C2%B7+SQLi+%C2%B7+SSRF+%C2%B7+Path+Traversal+%C2%B7+Access+Control;Responsible+disclosure%2C+one+fix+at+a+time" alt="typing"/></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Security+Researcher+%26+Penetration+Tester;XSS+%C2%B7+SQLi+%C2%B7+SSRF+%C2%B7+Path+Traversal+%C2%B7+Access+Control;Finding+%26+responsibly+disclosing+vulnerabilities" alt="typing"/></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Application%20Security-1f6feb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HTB-Skilled%20%C2%B7%20Lvl%2039-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/Disclosure-Responsible-2ea043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CVEs-In%20progress-orange?style=flat-square"/>
   <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=Profile+views"/>
 </p>
 
@@ -17,15 +17,27 @@
 
 ### 👋 About me
 
-I'm a security researcher focused on **web application security** and **source-code
-auditing** of open-source software. I find vulnerabilities, confirm them with working
-proofs of concept, and report them through **coordinated / responsible disclosure** —
-often contributing the fix as a pull request.
+I'm a security researcher and penetration tester focused on **web application security**
+and **source-code auditing** of open-source software. I find vulnerabilities, confirm them
+with working proofs of concept, and report them through **coordinated / responsible
+disclosure** — often contributing the fix as a pull request.
 
 - 🔭 Auditing open-source web apps (PHP / Python / JavaScript)
 - 🛡️ Vulnerability classes: XSS, SQL Injection, SSRF, SSTI, Path Traversal, Broken Access Control
-- 🔬 Manual code review + dynamic PoC validation
-- 📨 Vendor-first disclosure, then CVE via the appropriate CNA
+- 🎓 B.Sc. Computer Engineering — Fergana State Technical University (2020–2025)
+- 🌍 Based in Uzbekistan
+
+---
+
+### 🎓 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-CJCA%20(Certified%20Junior%20Cybersecurity%20Associate)-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/CyberWarfare%20Labs-WEB--RTA%20(Certified%20Web%20Red%20Team%20Analyst)-E10600?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/HTC-Red--0%20Fundamentals%20of%20Penetration%20Testing-1f6feb?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -85,8 +97,11 @@ often contributing the fix as a pull request.
 ### 📫 Let's connect
 
 <p>
+  <a href="https://www.linkedin.com/in/pentesterjavokhir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/Im_Javokhir"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/im_javokh1r_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:tursunboyevjavohir951@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/javokhir-sec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>Building a safer open-source ecosystem, one fix at a time.</i></p>
+<p align="center"><i>Building a safer ecosystem, one fix at a time.</i></p>
