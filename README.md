@@ -1,115 +1,101 @@
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Javokhir%20Tursunboyev&fontColor=ffffff&fontSize=42&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20PHP%20Code%20Auditor&descSize=16&descAlignY=62" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Javokhir%20Tursunboyev&fontColor=ffffff&fontSize=42&desc=Security%20Researcher%20%C2%B7%20Web%20AppSec%20%C2%B7%20Penetration%20Testing&descSize=18&descAlignY=62" alt="header"/>
 </a>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Security+Researcher+%26+Penetration+Tester;XSS+%C2%B7+SQLi+%C2%B7+File+Upload+RCE+%C2%B7+Auth+Bypass;7+Findings+%C2%B7+11+Critical+%C2%B7+8+High+%C2%B7+6+CVE+Requests;Finding+%26+responsibly+disclosing+vulnerabilities" alt="typing"/></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Security+Researcher+%26+Penetration+Tester;XSS+%C2%B7+SQLi+%C2%B7+SSRF+%C2%B7+Path+Traversal+%C2%B7+Access+Control;Finding+%26+responsibly+disclosing+vulnerabilities" alt="typing"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔍_Focus-Web_AppSec_%26_Source_Code_Audit-1f6feb?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🏴_HTB-Skilled_Lvl_39-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/🛡️_Disclosure-Responsible-2ea043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🐛_Bug_Bounty-HackerOne_%7C_Bugcrowd-ff6633?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=👁️_Views"/>
+  <img src="https://img.shields.io/badge/Focus-Application%20Security-1f6feb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HTB-Skilled%20%C2%B7%20Lvl%2039-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Disclosure-Responsible-2ea043?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=Profile+views"/>
 </p>
 
 ---
 
 ### 👋 About me
 
-🇺🇿 Based in **Tashkent, Uzbekistan**
+I'm a security researcher and penetration tester focused on **web application security**
+and **source-code auditing** of open-source software. I find vulnerabilities, confirm them
+with working proofs of concept, and report them through **coordinated / responsible
+disclosure** — often contributing the fix as a pull request.
 
-I'm a security researcher and bug bounty hunter focused on **web application security**
-and **source-code auditing** of open-source PHP applications. I find vulnerabilities,
-confirm them with working PoCs, and report through **responsible disclosure** — often
-contributing the fix as a pull request.
-
-- 🔭 **Auditing:** Open-source web apps (PHP / Python / JavaScript)
-- 🛡️ **Vulnerability classes:** SQLi, XSS, File Upload RCE, Auth Bypass, BAC, IDOR, CSRF
-- 🎓 **B.Sc. Computer Engineering** — Fergana State Technical University (2020–2025)
-- 📬 **Contact:** tursunboyevjavohir951@gmail.com
+- 🔭 Auditing open-source web apps (PHP / Python / JavaScript)
+- 🛡️ Vulnerability classes: XSS, SQL Injection, SSRF, SSTI, Path Traversal, Broken Access Control
+- 🎓 B.Sc. Computer Engineering — Fergana State Technical University (2020–2025)
+- 🌍 Based in Uzbekistan
 
 ---
 
 ### 🎓 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/HTB-CJCA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CWL-WEB--RTA-E10600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTC-Red--0_Pentest_Fundamentals-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-CJCA%20(Certified%20Junior%20Cybersecurity%20Associate)-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/CyberWarfare%20Labs-WEB--RTA%20(Certified%20Web%20Red%20Team%20Analyst)-E10600?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/HTC-Red--0%20Fundamentals%20of%20Penetration%20Testing-1f6feb?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,js,mysql,linux,bash,git,docker,kali" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=php,python,js,mysql,linux,bash,git,docker,html,css" alt="skills"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/semgrep-1B2A4A?style=flat-square&logo=semgrep&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlmap-CC2927?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ffuf-00ADD8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/nuclei-7B42BC?style=flat-square"/>
-  <img src="https://img.shields.io/badge/subfinder-2088FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ripgrep-444?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/curl-073551?style=flat-square&logo=curl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 </p>
 
 ---
 
-### 🎯 Vulnerability Research
+### 🎯 Areas of focus
 
-| Area | Findings |
+| Area | Examples |
 |------|----------|
-| SQL Injection (CWE-89) | 3× Critical — UNION-based, blind, auth bypass |
-| Auth Bypass (CWE-287) | 2× Critical — demo pages, debug tools |
-| File Upload → RCE (CWE-434) | 1× Critical — zero-validation upload |
-| Broken Access Control (CWE-306/862) | 2× Critical — 11 admin pages unprotected |
-| XSS (CWE-79) | 2× — stored + reflected |
+| Injection | XSS (reflected/stored), SQL Injection, Command Injection |
+| Access control | Broken Access Control, Auth Bypass, IDOR, Path Traversal |
+| Server-side | SSRF, SSTI (template injection), Deserialization |
+| Methodology | Manual code review, `ripgrep`/`semgrep`, live PoC, fix PRs |
 
 ---
 
-### 🏆 Security Advisories & CVE Requests
+### 🏆 Security Advisories & CVEs
 
-> Product names withheld until CVE publication. Fix PRs submitted for all findings.
+> Coordinated disclosures. Product names withheld until CVE publication.
+> Fix pull requests submitted for all findings.
 
-| # | CWE | Severity | CVSS | PR Status | CVE |
-|---|-----|----------|------|-----------|-----|
-| 1 | CWE-79 — Reflected XSS | 🟡 Medium | 6.1 | — | Pending |
-| 2 | CWE-862 — BAC | 🟠 High | 8.2 | [Merged](https://github.com/raghav993/toner-management/pull/1) | CAN-2026-2032219 |
-| 3 | CWE-89 — SQLi → Auth Bypass | 🔴 Critical | 9.8 | [Open](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/pull/3) | CAN-2026-2032221 |
-| 4 | CWE-89 — SQL Injection (5×) | 🔴 Critical | 9.8 | [Open](https://github.com/amine-CS96/Simple-Inventory-PHP/pull/1) | CAN-2026-2051108 |
-| 5 | CWE-287 — Auth Bypass | 🔴 Critical | 9.8 | [Open](https://github.com/HasithKarunarathne/HC-store-purchase-order-system/pull/1) | CAN-2026-2051109 |
-| 6 | CWE-434 — File Upload → RCE | 🔴 Critical | 9.0 | [Open](https://github.com/ElloRabyndra/MarketPlaceManagement/pull/2) | CAN-2026-2051110 |
-| 7 | CWE-306 — BAC (Admin Pages) | 🔴 Critical | 9.1 | [Open](https://github.com/dimuthadithya/MobiMart/pull/4) | CAN-2026-2051111 |
+| # | CWE | Severity | CVSS | Disclosure | PR |
+|---|-----|----------|------|-------------|-----|
+| 1 | CWE-79 — Reflected XSS | 🟡 Medium | 6.1 | Maintainer emailed | — |
+| 2 | CWE-862 — Broken Access Control | 🟠 High | 8.2 | ✅ Disclosed | [Merged](https://github.com/raghav993/toner-management/pull/1) |
+| 3 | CWE-89 — SQLi → Auth Bypass | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/pull/3) |
+| 4 | CWE-89 — SQL Injection (5×) | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/amine-CS96/Simple-Inventory-PHP/pull/1) |
+| 5 | CWE-287 — Auth Bypass | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/HasithKarunarathne/HC-store-purchase-order-system/pull/1) |
+| 6 | CWE-434 — File Upload → RCE | 🔴 Critical | 9.0 | ✅ Disclosed | [Open](https://github.com/ElloRabyndra/MarketPlaceManagement/pull/2) |
+| 7 | CWE-306 — Broken Access Control | 🔴 Critical | 9.1 | ✅ Disclosed | [Open](https://github.com/dimuthadithya/MobiMart/pull/4) |
 
-> **6 CVEs under review via MITRE CNA-LR**
+**CVE Requests:** 6 CVEs requested via MITRE CNA-LR — under review.
+
+<!-- CVE publish bo'lgach:
+| [CVE-2026-XXXXX](https://www.cve.org/CVERecord?id=CVE-2026-XXXXX) | Product | Type | CVSS |
+-->
 
 ---
 
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=javokhir-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javokhir-sec&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=javokhir-sec&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-### 🌍 Bug Bounty Platforms
-
-<p>
-  <a href="https://hackerone.com/pentesterjavokhir"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-  <a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
-  <a href="https://app.intigriti.com"><img src="https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=intigriti&logoColor=white"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=javokhir-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=javokhir-sec&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -119,9 +105,9 @@ contributing the fix as a pull request.
 <p>
   <a href="https://www.linkedin.com/in/pentesterjavokhir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/Im_Javokhir"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/javokhir-sec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://hackerone.com/pentesterjavokhir"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+  <a href="https://www.instagram.com/im_javokh1r_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:tursunboyevjavohir951@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/javokhir-sec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>🛡️ Finding vulnerabilities. Reporting responsibly. Building a safer web.</i></p>
+<p align="center"><i>Building a safer ecosystem, one fix at a time.</i></p>
