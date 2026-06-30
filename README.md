@@ -70,17 +70,23 @@ disclosure** — often contributing the fix as a pull request.
 
 ### 🏆 Security Advisories & CVEs
 
-> Coordinated disclosures. To respect embargoes, product names and full details are
-> withheld until a fix is released; the public CVE/advisory link is added on publication.
+> Coordinated disclosures. Product names withheld until CVE publication.
+> Fix pull requests submitted for all findings.
 
-| # | Type | Severity | Status |
-|---|------|----------|--------|
-| 1 | Reflected XSS (CWE-79) | 🟡 Medium (6.1) | Coordinated disclosure — vendor notified |
-| 2 | Broken Access Control (CWE-862) | 🟠 High (8.2) | Disclosure + fix PR + CVE request |
-| 3 | SQL Injection → Auth Bypass (CWE-89) | 🔴 Critical (9.8) | Disclosure + fix PR + CVE request |
+| # | CWE | Severity | CVSS | Disclosure | PR |
+|---|-----|----------|------|-------------|-----|
+| 1 | CWE-79 — Reflected XSS | 🟡 Medium | 6.1 | Maintainer emailed | — |
+| 2 | CWE-862 — Broken Access Control | 🟠 High | 8.2 | ✅ Disclosed | [Merged](https://github.com/raghav993/toner-management/pull/1) |
+| 3 | CWE-89 — SQLi → Auth Bypass | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/pull/3) |
+| 4 | CWE-89 — SQL Injection (5×) | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/amine-CS96/Simple-Inventory-PHP/pull/1) |
+| 5 | CWE-287 — Auth Bypass | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/HasithKarunarathne/HC-store-purchase-order-system/pull/1) |
+| 6 | CWE-434 — File Upload → RCE | 🔴 Critical | 9.0 | ✅ Disclosed | [Open](https://github.com/ElloRabyndra/MarketPlaceManagement/pull/2) |
+| 7 | CWE-306 — Broken Access Control | 🔴 Critical | 9.1 | ✅ Disclosed | [Open](https://github.com/dimuthadithya/MobiMart/pull/4) |
 
-<!-- CVE rasman publish bo'lgach to'ldiring:
-| [CVE-2026-XXXXX](https://www.cve.org/CVERecord?id=CVE-2026-XXXXX) | Product | Type | Severity | Published |
+**CVE Requests:** 6 CVEs requested via MITRE CNA-LR — under review.
+
+<!-- CVE publish bo'lgach:
+| [CVE-2026-XXXXX](https://www.cve.org/CVERecord?id=CVE-2026-XXXXX) | Product | Type | CVSS |
 -->
 
 ---
