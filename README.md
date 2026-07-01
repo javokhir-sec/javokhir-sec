@@ -134,25 +134,107 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ---
 
-### 🏆 Security Advisories & CVEs
+### 🏆 Advisories & CVEs
 
-> Coordinated disclosures. Product names withheld until CVE publication.
-> Fix pull requests submitted for all findings.
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ⚠ VULNERABILITY DISCLOSURES — Coordinated · Responsible   │
+│  Product names withheld until CVE publication               │
+│                                                             │
+│  🔴 Critical (9.0+)  ████████████████████████  10           │
+│  🟠 High (7.0-8.9)   ██████                     2           │
+│  🟡 Medium (4.0-6.9) ██                          1           │
+│                                                             │
+│  Total: 12 advisories  ·  65+ vulns  ·  11 CVEs pending     │
+└─────────────────────────────────────────────────────────────┘
+```
 
-| # | CWE | Severity | CVSS | Disclosure | PR |
-|---|-----|----------|------|-------------|-----|
-| 1 | CWE-79 — Reflected XSS | 🟡 Medium | 6.1 | Maintainer emailed | — |
-| 2 | CWE-862 — Broken Access Control | 🟠 High | 8.2 | ✅ Disclosed | [Merged](https://github.com/raghav993/toner-management/pull/1) |
-| 3 | CWE-89 — SQLi → Auth Bypass | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/pull/3) |
-| 4 | CWE-89 — SQL Injection (5×) | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/amine-CS96/Simple-Inventory-PHP/pull/1) |
-| 5 | CWE-287 — Auth Bypass | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/HasithKarunarathne/HC-store-purchase-order-system/pull/1) |
-| 6 | CWE-434 — File Upload → RCE | 🔴 Critical | 9.0 | ✅ Disclosed | [Open](https://github.com/ElloRabyndra/MarketPlaceManagement/pull/2) |
-| 7 | CWE-306 — Broken Access Control | 🔴 Critical | 9.1 | ✅ Disclosed | [Open](https://github.com/dimuthadithya/MobiMart/pull/4) |
-| 8 | CWE-89 — SQLi ×3 + Missing Auth + CSRF | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/digitalengineer07/Premium-Property-Management-System/pull/1) |
-| 9 | CWE-89 — SQLi ×7 + XSS + Plaintext Pwd | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/Rishith-Yadav/CampusHub/pull/1) |
-| 10 | CWE-89 — SQLi ×2 + XSS ×2 + CSRF ×2 | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/Dusterian/Public-Utility-Management-System/pull/1) |
-| 11 | CWE-918 — SSRF ×2 + XSS + Open Redirect | 🟠 High | 7.5 | ✅ Disclosed | [Open](https://github.com/javokhir-sec/dagd/pull/1) |
-| 12 | CWE-79 + CWE-527 — XSS + .git/data exposed | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/BoidCMS/BoidCMS/pull/49) |
+<table>
+<tr>
+  <td width="60"><b>#01</b></td>
+  <td><b>CWE-79 · Reflected XSS</b><br><sub>299Ko CMS</sub></td>
+  <td><img src="https://img.shields.io/badge/Medium-6.1-yellow?style=flat-square"/></td>
+  <td><sub>📨 Maintainer notified</sub></td>
+  <td align="center">—</td>
+</tr>
+<tr>
+  <td><b>#02</b></td>
+  <td><b>CWE-862 · Broken Access Control</b><br><sub>Toner Management</sub></td>
+  <td><img src="https://img.shields.io/badge/High-8.2-orange?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/raghav993/toner-management/pull/1">🔗 Merged</a></td>
+</tr>
+<tr>
+  <td><b>#03</b></td>
+  <td><b>CWE-89 · SQLi → Auth Bypass</b><br><sub>Inventory Management (PHP)</sub></td>
+  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/Harsh21Patel/Inventory-Management-System-PHP/pull/3">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#04</b></td>
+  <td><b>CWE-89 · SQL Injection</b> ×5<br><sub>Simple Inventory PHP</sub></td>
+  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/amine-CS96/Simple-Inventory-PHP/pull/1">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#05</b></td>
+  <td><b>CWE-287 · Auth Bypass</b><br><sub>HC Store Purchase Order</sub></td>
+  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/HasithKarunarathne/HC-store-purchase-order-system/pull/1">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#06</b></td>
+  <td><b>CWE-434 · File Upload → RCE</b><br><sub>Marketplace Management</sub></td>
+  <td><img src="https://img.shields.io/badge/Critical-9.0-red?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/ElloRabyndra/MarketPlaceManagement/pull/2">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#07</b></td>
+  <td><b>CWE-306 · Broken Access Control</b><br><sub>MobiMart</sub></td>
+  <td><img src="https://img.shields.io/badge/Critical-9.1-red?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/dimuthadithya/MobiMart/pull/4">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#08</b></td>
+  <td><b>CWE-89 · SQLi ×3</b> + Auth + CSRF<br><sub>Premium Property Management</sub></td>
+  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/digitalengineer07/Premium-Property-Management-System/pull/1">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#09</b></td>
+  <td><b>CWE-89 · SQLi ×7</b> + XSS + Plaintext<br><sub>CampusHub</sub></td>
+  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/Rishith-Yadav/CampusHub/pull/1">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#10</b></td>
+  <td><b>CWE-89 · SQLi ×2</b> + XSS ×2 + CSRF ×2<br><sub>Public Utility Management</sub></td>
+  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/Dusterian/Public-Utility-Management-System/pull/1">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#11</b></td>
+  <td><b>CWE-918 · SSRF ×2</b> + XSS + Redirect<br><sub>DAGD</sub></td>
+  <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/javokhir-sec/dagd/pull/1">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#12</b></td>
+  <td><b>CWE-79 + CWE-527</b> · XSS + Data Exposed<br><sub>BoidCMS</sub></td>
+  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
+  <td><sub>✅ Disclosed</sub></td>
+  <td align="center"><a href="https://github.com/BoidCMS/BoidCMS/pull/49">🔗 PR</a></td>
+</tr>
+</table>
 
 ---
 
