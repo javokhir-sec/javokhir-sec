@@ -106,6 +106,9 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ### 🏆 Advisories & CVEs
 
+<details>
+<summary>📋 12 Advisories · 65+ Vulns · 11 CVEs Pending (click to expand)</summary>
+
 <table>
 <tr>
   <td width="50"><b>#01</b></td>
@@ -192,6 +195,8 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <td align="center"><a href="https://github.com/BoidCMS/BoidCMS/pull/49">🔗 PR</a></td>
 </tr>
 </table>
+
+</details>
 
 ---
 
