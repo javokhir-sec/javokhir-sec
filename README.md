@@ -41,47 +41,19 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 ### 🛠️ Open Source Projects
 
 <p align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <a href="https://github.com/javokhir-sec/PromptFuzzer"><b>🧪 PromptFuzzer</b></a><br/>
-        <sub>AI Prompt Injection Red Team Toolkit<br/>200+ payloads · OWASP LLM Top 10</sub><br/>
-        <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python"/>
-        <img src="https://img.shields.io/badge/AI_Security-8A2BE2?style=flat-square"/>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/javokhir-sec/AI-BugHunter"><b>🤖 AI-BugHunter</b></a><br/>
-        <sub>AI-Powered Vulnerability Discovery<br/>Smart recon + payload generation</sub><br/>
-        <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python"/>
-        <img src="https://img.shields.io/badge/Bug_Bounty-green?style=flat-square"/>
-      </td>
-      <td width="33%" align="center">
-        <a href="https://github.com/javokhir-sec/BugBounty-CLI"><b>⚡ BugBounty-CLI</b></a><br/>
-        <sub>All-in-One CLI Toolkit<br/>Recon → Vuln → Exploit → Report</sub><br/>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash"/>
-        <img src="https://img.shields.io/badge/CLI_Tool-orange?style=flat-square"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/javokhir-sec/awesome-bugbounty-resources"><b>🚀 Awesome Bug Bounty</b></a><br/>
-        <sub>100+ Tools · Wordlists · Guides<br/>Checklists · Methodology</sub><br/>
-        <img src="https://img.shields.io/badge/Curated_List-2ea043?style=flat-square"/>
-        <img src="https://img.shields.io/badge/100+_Tools-blue?style=flat-square"/>
-      </td>
-      <td align="center">
-        <a href="https://github.com/javokhir-sec/CVE-PoC-Hub"><b>🔬 CVE PoC Hub</b></a><br/>
-        <sub>Working Exploit Collection<br/>12 CVEs · Tested & Verified</sub><br/>
-        <img src="https://img.shields.io/badge/Exploit-red?style=flat-square&logo=curl"/>
-        <img src="https://img.shields.io/badge/CVE_PoC-critical?style=flat-square"/>
-      </td>
-      <td align="center">
-        <a href="https://github.com/javokhir-sec?tab=repositories"><b>📂 View All →</b></a><br/>
-        <sub>All repositories & contributions<br/>15+ security projects</sub><br/>
-        <img src="https://img.shields.io/badge/Repos-15+-1f6feb?style=flat-square"/>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/javokhir-sec/PromptFuzzer">
+    <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=javokhir-sec&repo=PromptFuzzer&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/javokhir-sec/AI-BugHunter">
+    <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=javokhir-sec&repo=AI-BugHunter&theme=tokyonight&hide_border=true"/>
+  </a>
+  <br/>
+  <a href="https://github.com/javokhir-sec/BugBounty-CLI">
+    <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=javokhir-sec&repo=BugBounty-CLI&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/javokhir-sec/awesome-bugbounty-resources">
+    <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=javokhir-sec&repo=awesome-bugbounty-resources&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ---
