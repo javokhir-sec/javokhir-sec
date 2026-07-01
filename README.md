@@ -203,7 +203,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 ### ☕ Support My Research
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/javokhir-sec">
+  <a href="https://www.buymeacoffee.com/Javokh1r">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
   </a>
 </p>
