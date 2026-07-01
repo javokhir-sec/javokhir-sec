@@ -36,6 +36,24 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ---
 
+---
+
+### 🛠️ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/javokhir-sec/tools-lab">
+    <img src="https://img.shields.io/badge/🔬_Security_Tools-Lab-informational?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/javokhir-sec/dagd">
+    <img src="https://img.shields.io/badge/🐍_SSRF_PoC-DAGD-critical?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/javokhir-sec?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_All_Repos-View_All-1f6feb?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 ### 🧰 Arsenal
 
 <p align="center">
