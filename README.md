@@ -62,7 +62,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ---
 
-### 🔥 WakaTime (Last 7 Days)
+### 🔥 WakaTime (Last 30 Days)
 
 <p align="center">
   <a href="https://wakatime.com">
