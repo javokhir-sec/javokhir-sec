@@ -60,13 +60,6 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   </a>
 </p>
 
-<!-- GitHub Skyline 3D -->
-<p align="center">
-  <a href="https://skyline.github.com/javokhir-sec/2025">
-    <img src="https://img.shields.io/badge/View%203D-Contribution%20Skyline-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ### 🔥 WakaTime (Last 7 Days)
