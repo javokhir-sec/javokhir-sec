@@ -36,78 +36,6 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ---
 
-<details>
-<summary><b><big>🏆 GITHUB ACHIEVEMENTS  —  click to expand ▼</big></b></summary>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=javokhir-sec&theme=tokyonight&column=5&margin-w=8"/>
-</p>
-
-</details>
-
----
-
-<details>
-<summary><b><big>📊 GITHUB STATS  —  click to expand ▼</big></b></summary>
-
-<p align="center">
-  <a href="https://github.com/javokhir-sec">
-    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=javokhir-sec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&rank_icon=github"/>
-  </a>
-  <a href="https://github.com/javokhir-sec">
-    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=javokhir-sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=roff"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/javokhir-sec">
-    <img src="https://streak-stats.demolab.com/?user=javokhir-sec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454&ring=36BCF7"/>
-  </a>
-</p>
-
-</details>
-
----
-
-<details>
-<summary><b><big>🔥 WAKATIME (LAST 30 DAYS)  —  click to expand ▼</big></b></summary>
-
-<p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@0293f359-09ee-483b-920b-683f9aacb84c/bf8998a1-acf8-4483-a30b-0713364a6fb6.svg" height="400" alt="WakaTime stats"/>
-  </a>
-</p>
-
-</details>
-
----
-
-<details>
-<summary><b><big>📈 CONTRIBUTION ACTIVITY  —  click to expand ▼</big></b></summary>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=github&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
-  </picture>
-</p>
-
-</details>
-
----
-
-### 🎓 Certifications
-
-<p align="center">
-  <img width="550" src="https://img.shields.io/badge/CJCA-Certified%20Junior%20Cybersecurity%20Associate-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1A1B27&color=2d5016"/>
-  <br/><br/>
-  <img width="550" src="https://img.shields.io/badge/WEB--RTA-Certified%20Web%20Red%20Team%20Analyst-E10600?style=for-the-badge&labelColor=1A1B27&color=5c0202"/>
-  <br/><br/>
-  <img width="550" src="https://img.shields.io/badge/Red--0-Fundamentals%20of%20Penetration%20Testing-1f6feb?style=for-the-badge&labelColor=1A1B27&color=0a1a3a"/>
-</p>
-
----
-
 ### 🧰 Arsenal
 
 <p align="center">
@@ -212,6 +140,18 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ---
 
+### 🎓 Certifications
+
+<p align="center">
+  <img width="550" src="https://img.shields.io/badge/CJCA-Certified%20Junior%20Cybersecurity%20Associate-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1A1B27&color=2d5016"/>
+  <br/><br/>
+  <img width="550" src="https://img.shields.io/badge/WEB--RTA-Certified%20Web%20Red%20Team%20Analyst-E10600?style=for-the-badge&labelColor=1A1B27&color=5c0202"/>
+  <br/><br/>
+  <img width="550" src="https://img.shields.io/badge/Red--0-Fundamentals%20of%20Penetration%20Testing-1f6feb?style=for-the-badge&labelColor=1A1B27&color=0a1a3a"/>
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -248,3 +188,54 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 </p>
 
 <p align="center"><i>Building a safer open-source ecosystem, one vulnerability at a time.</i></p>
+
+---
+
+### 📈 Stats & Activity
+
+<details>
+<summary><b><big>🏆 GITHUB ACHIEVEMENTS  —  click to expand ▼</big></b></summary>
+<br/>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=javokhir-sec&theme=tokyonight&column=5&margin-w=8"/>
+</p>
+</details>
+
+<details>
+<summary><b><big>📊 GITHUB STATS  —  click to expand ▼</big></b></summary>
+<br/>
+<p align="center">
+  <a href="https://github.com/javokhir-sec">
+    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=javokhir-sec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&rank_icon=github"/>
+  </a>
+  <a href="https://github.com/javokhir-sec">
+    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=javokhir-sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=roff"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/javokhir-sec">
+    <img src="https://streak-stats.demolab.com/?user=javokhir-sec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB5454&ring=36BCF7"/>
+  </a>
+</p>
+</details>
+
+<details>
+<summary><b><big>🔥 WAKATIME (LAST 30 DAYS)  —  click to expand ▼</big></b></summary>
+<br/>
+<p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@0293f359-09ee-483b-920b-683f9aacb84c/bf8998a1-acf8-4483-a30b-0713364a6fb6.svg" height="400" alt="WakaTime stats"/>
+  </a>
+</p>
+</details>
+
+<details>
+<summary><b><big>📈 CONTRIBUTION ACTIVITY  —  click to expand ▼</big></b></summary>
+<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=github&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
+  </picture>
+</p>
+</details>
