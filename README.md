@@ -85,10 +85,12 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ### 🎓 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-CJCA%20(Certified%20Junior%20Cybersecurity%20Associate)-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CyberWarfare%20Labs-WEB--RTA%20(Certified%20Web%20Red%20Team%20Analyst)-E10600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTC-Red--0%20Fundamentals%20of%20Penetration%20Testing-1f6feb?style=for-the-badge"/>
+<p align="center">
+  <img width="550" src="https://img.shields.io/badge/CJCA-Certified%20Junior%20Cybersecurity%20Associate-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1A1B27&color=2d5016"/>
+  <br/><br/>
+  <img width="550" src="https://img.shields.io/badge/WEB--RTA-Certified%20Web%20Red%20Team%20Analyst-E10600?style=for-the-badge&labelColor=1A1B27&color=5c0202"/>
+  <br/><br/>
+  <img width="550" src="https://img.shields.io/badge/Red--0-Fundamentals%20of%20Penetration%20Testing-1f6feb?style=for-the-badge&labelColor=1A1B27&color=0a1a3a"/>
 </p>
 
 ---
