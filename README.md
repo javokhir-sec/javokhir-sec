@@ -73,7 +73,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 <p align="center">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@javokhir-sec/4b7c8d3a-e12f-4a5b-9e2d-1f8a7c3b5d6e.svg" height="400" alt="WakaTime stats"/>
+    <img src="https://wakatime.com/share/@0293f359-09ee-483b-920b-683f9aacb84c/bf8998a1-acf8-4483-a30b-0713364a6fb6.svg" height="400" alt="WakaTime stats"/>
   </a>
 </p>
 
