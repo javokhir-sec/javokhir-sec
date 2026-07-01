@@ -41,13 +41,20 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 ### 🛠️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/javokhir-sec/awesome-bugbounty-resources">
-    <img src="https://img.shields.io/badge/🚀_Awesome_Bug_Bounty-100+_Tools_|_Wordlists_|_PoC_Templates-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/javokhir-sec/AI-BugHunter">
+    <img src="https://img.shields.io/badge/🤖_AI_BugHunter-AI_Powered_Vuln_Scanner-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://github.com/javokhir-sec/BugBounty-CLI">
+    <img src="https://img.shields.io/badge/⚡_BugBounty_CLI-All_in_One_Toolkit-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   </a>
   <br/><br/>
-  <a href="https://github.com/javokhir-sec/dagd">
-    <img src="https://img.shields.io/badge/🐍_SSRF_PoC-DAGD-critical?style=for-the-badge"/>
+  <a href="https://github.com/javokhir-sec/awesome-bugbounty-resources">
+    <img src="https://img.shields.io/badge/🚀_Awesome_Bug_Bounty-100+_Tools_|_Guides_|_PoCs-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://github.com/javokhir-sec/CVE-PoC-Hub">
+    <img src="https://img.shields.io/badge/🔬_CVE_PoC_Hub-Working_Exploits-red?style=for-the-badge&logo=curl&logoColor=white"/>
+  </a>
+  <br/><br/>
   <a href="https://github.com/javokhir-sec?tab=repositories">
     <img src="https://img.shields.io/badge/📂_All_Repos-View_All-1f6feb?style=for-the-badge"/>
   </a>
