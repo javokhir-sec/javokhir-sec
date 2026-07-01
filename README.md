@@ -82,8 +82,13 @@ disclosure** — often contributing the fix as a pull request.
 | 5 | CWE-287 — Auth Bypass | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/HasithKarunarathne/HC-store-purchase-order-system/pull/1) |
 | 6 | CWE-434 — File Upload → RCE | 🔴 Critical | 9.0 | ✅ Disclosed | [Open](https://github.com/ElloRabyndra/MarketPlaceManagement/pull/2) |
 | 7 | CWE-306 — Broken Access Control | 🔴 Critical | 9.1 | ✅ Disclosed | [Open](https://github.com/dimuthadithya/MobiMart/pull/4) |
+| 8 | CWE-89 — SQLi ×3 + Missing Auth + CSRF | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/digitalengineer07/Premium-Property-Management-System/pull/1) |
+| 9 | CWE-89 — SQLi ×7 + XSS + Plaintext Pwd | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/Rishith-Yadav/CampusHub/pull/1) |
+| 10 | CWE-89 — SQLi ×2 + XSS ×2 + CSRF ×2 | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/Dusterian/Public-Utility-Management-System/pull/1) |
+| 11 | CWE-918 — SSRF ×2 + XSS + Open Redirect | 🟠 High | 7.5 | ✅ Disclosed | [Open](https://github.com/javokhir-sec/dagd/pull/1) |
+| 12 | CWE-79 + CWE-527 — XSS + .git/data exposed | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/BoidCMS/BoidCMS/pull/49) |
 
-**CVE Requests:** 6 CVEs requested via MITRE CNA-LR — under review.
+**12 targets audited • 65+ vulnerabilities • 11 fix PRs • 11 CVEs requested**
 
 <!-- CVE publish bo'lgach:
 | [CVE-2026-XXXXX](https://www.cve.org/CVERecord?id=CVE-2026-XXXXX) | Product | Type | CVSS |
