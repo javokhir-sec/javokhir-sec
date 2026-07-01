@@ -22,16 +22,29 @@
 
 ### 👹 $ whoami
 
-I'm an **Offensive Security Researcher** and **Bug Bounty Hunter** focused on
-**web application security** and **source-code auditing** of open-source software.
-I find vulnerabilities, confirm them with working PoCs, and report through
-**coordinated / responsible disclosure** — often contributing the fix as a PR.
+<p align="center">
+  <b>Offensive Security Researcher</b> · <b>Bug Bounty Hunter</b> · <b>Source-Code Auditor</b>
+</p>
 
-- 🔭 Auditing open-source web apps (PHP / Python / JavaScript)
-- 🛡️ Specializing in: XSS, SQL Injection, SSRF, SSTI, Path Traversal, Broken Access Control
-- 🎓 B.Sc. Computer Engineering — Fergana State Technical University (2020–2025)
-- 🌍 Based in Uzbekistan (UTC +05:00)
-- 💬 Quote I live by: *"The quieter you become, the more you are able to hear."*
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  I find vulnerabilities in open-source web apps, confirm them    │
+│  with working PoCs, and report through responsible disclosure —  │
+│  often contributing the fix as a pull request.                   │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭_Focus-PHP_|_Python_|_JavaScript-1f6feb?style=for-the-badge&labelColor=1A1B27"/>
+  <img src="https://img.shields.io/badge/🛡️_Specialty-XSS_|_SQLi_|_SSRF_|_SSTI_|_Auth_Bypass-9FEF00?style=for-the-badge&labelColor=1A1B27"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🎓_Education-B.Sc._Computer_Engineering-8A2BE2?style=for-the-badge&labelColor=1A1B27"/>
+  <img src="https://img.shields.io/badge/🌍_Location-Uzbekistan_(UTC_+05:00)-00ADD8?style=for-the-badge&labelColor=1A1B27"/>
+</p>
+
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i>
+</p>
 
 ---
 
