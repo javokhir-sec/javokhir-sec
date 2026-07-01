@@ -100,14 +100,14 @@ disclosure** — often contributing the fix as a pull request.
 
 <p align="center">
   <a href="https://github.com/javokhir-sec">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=javokhir-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javokhir-sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"/>
+    <img height="180" src="https://github-readme-stats-omega-flax.vercel.app/api?username=javokhir-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+    <img height="180" src="https://github-readme-stats-omega-flax.vercel.app/api/top-langs/?username=javokhir-sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"/>
     <img height="180" src="https://streak-stats.demolab.com/?user=javokhir-sec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=javokhir-sec&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B"/>
+  <img src="https://github-profile-trophy-ten.vercel.app/?username=javokhir-sec&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B"/>
 </p>
 
 <p align="center">
