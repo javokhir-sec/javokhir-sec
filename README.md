@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Security+Researcher+%26+Penetration+Tester;XSS+%C2%B7+SQLi+%C2%B7+SSRF+%C2%B7+Path+Traversal+%C2%B7+Access+Control;Finding+%26+responsibly+disclosing+vulnerabilities" alt="typing"/></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Security+Researcher+%26+Penetration+Tester;XSS+%C2%B7+SQLi+%C2%B7+SSRF+%C2%B7+Path+Traversal+%C2%B7+Access+Control;Finding+%26+responsibly+disclosing+vulnerabilities;Building+a+safer+open-source+ecosystem" alt="typing"/></a>
 </p>
 
 <p align="center">
@@ -26,6 +26,40 @@ disclosure** — often contributing the fix as a pull request.
 - 🛡️ Vulnerability classes: XSS, SQL Injection, SSRF, SSTI, Path Traversal, Broken Access Control
 - 🎓 B.Sc. Computer Engineering — Fergana State Technical University (2020–2025)
 - 🌍 Based in Uzbekistan
+
+---
+
+### 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=javokhir-sec&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=10&rank=SECURITY,EXPERIENCE,REPOSITORY,COMMIT,STARS,FOLLOWERS,PULLREQUEST"/>
+</p>
+
+---
+
+### 📊 Stats & Activity
+
+<p align="center">
+  <a href="https://github.com/javokhir-sec">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=javokhir-sec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
+  </a>
+  <a href="https://github.com/javokhir-sec">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javokhir-sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/javokhir-sec">
+    <img src="https://streak-stats.demolab.com/?user=javokhir-sec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=github&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
+  </picture>
+</p>
 
 ---
 
@@ -88,41 +122,17 @@ disclosure** — often contributing the fix as a pull request.
 | 11 | CWE-918 — SSRF ×2 + XSS + Open Redirect | 🟠 High | 7.5 | ✅ Disclosed | [Open](https://github.com/javokhir-sec/dagd/pull/1) |
 | 12 | CWE-79 + CWE-527 — XSS + .git/data exposed | 🔴 Critical | 9.8 | ✅ Disclosed | [Open](https://github.com/BoidCMS/BoidCMS/pull/49) |
 
-**12 targets audited • 65+ vulnerabilities • 11 fix PRs • 11 CVEs requested**
-
-<!-- CVE publish bo'lgach:
-| [CVE-2026-XXXXX](https://www.cve.org/CVERecord?id=CVE-2026-XXXXX) | Product | Type | CVSS |
--->
+**🔴 10+ Critical CVEs · 🐛 65+ Vulns Found · 🔧 11 Fix PRs · 🎯 12 Targets Audited · 📜 11 CVEs Requested**
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- Custom metrics — no external dependencies -->
-<table align="center">
-  <tr>
-    <td align="center"><b>🔴 10+</b><br/><sub>Critical CVEs</sub></td>
-    <td align="center"><b>🐛 65+</b><br/><sub>Vulns Found</sub></td>
-    <td align="center"><b>🔧 11</b><br/><sub>Fix PRs</sub></td>
-    <td align="center"><b>🎯 12</b><br/><sub>Targets Audited</sub></td>
-    <td align="center"><b>📜 11</b><br/><sub>CVEs Requested</sub></td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/javokhir-sec">
-    <img height="175" src="https://streak-stats.demolab.com/?user=javokhir-sec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-ten.vercel.app/?username=javokhir-sec&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&rank=SECURITY,EXPERIENCE,REPOSITORY,COMMIT,STARS,FOLLOWERS,PULLREQUEST"/>
-</p>
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=github&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javokhir-sec/javokhir-sec/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javokhir-sec/javokhir-sec/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/javokhir-sec/javokhir-sec/output/snake.svg" alt="snake"/>
   </picture>
 </p>
 
