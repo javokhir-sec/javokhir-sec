@@ -190,12 +190,11 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ---
 
-### 🎵 Now Playing
+### 🪲 Bug Bounty & Platforms
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n55ptqpgqhnrjksyje4obc2fwu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n55ptqpgqhnrjksyje4obc2fwu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
-  </a>
+  <a href="https://hackerone.com/pentesterjavokhir"><img src="https://img.shields.io/badge/HackerOne-pentesterjavokhir-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+  <a href="https://app.hackthebox.com/profile/overview"><img src="https://img.shields.io/badge/HTB-Lvl%2039%20%7C%20Skilled-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
 </p>
 
 ---
