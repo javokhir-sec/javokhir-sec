@@ -107,7 +107,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 ### 🏆 Advisories & CVEs
 
 <details>
-<summary>📋 12 Advisories · 65+ Vulns · 11 CVEs Pending (click to expand)</summary>
+<summary><b><big>📋 12 Advisories · 65+ Vulns · 11 CVEs Pending &nbsp; ▼</big></b></summary>
 
 <table>
 <tr>
