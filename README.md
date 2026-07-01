@@ -136,19 +136,6 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ### 🏆 Advisories & CVEs
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ⚠ VULNERABILITY DISCLOSURES — Coordinated · Responsible   │
-│  Product names withheld until CVE publication               │
-│                                                             │
-│  🔴 Critical (9.0+)  ████████████████████████  10           │
-│  🟠 High (7.0-8.9)   ██████                     2           │
-│  🟡 Medium (4.0-6.9) ██                          1           │
-│                                                             │
-│  Total: 12 advisories  ·  65+ vulns  ·  11 CVEs pending     │
-└─────────────────────────────────────────────────────────────┘
-```
-
 <table>
 <tr>
   <td width="60"><b>#01</b></td>
