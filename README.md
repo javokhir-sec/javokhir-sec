@@ -41,9 +41,10 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 ### 🛠️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/javokhir-sec/tools-lab">
-    <img src="https://img.shields.io/badge/🔬_Security_Tools-Lab-informational?style=for-the-badge"/>
+  <a href="https://github.com/javokhir-sec/awesome-bugbounty-resources">
+    <img src="https://img.shields.io/badge/🚀_Awesome_Bug_Bounty-100+_Tools_|_Wordlists_|_PoC_Templates-2ea043?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <br/><br/>
   <a href="https://github.com/javokhir-sec/dagd">
     <img src="https://img.shields.io/badge/🐍_SSRF_PoC-DAGD-critical?style=for-the-badge"/>
   </a>
