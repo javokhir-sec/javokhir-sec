@@ -134,22 +134,6 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ---
 
-### 🛡️ Vulnerability Research Stats
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center"><b>🔴 10+</b><br/><sub>Critical CVEs</sub></td>
-      <td align="center"><b>🐛 65+</b><br/><sub>Vulns Found</sub></td>
-      <td align="center"><b>🔧 11</b><br/><sub>Fix PRs</sub></td>
-      <td align="center"><b>🎯 12</b><br/><sub>Targets Audited</sub></td>
-      <td align="center"><b>📜 11</b><br/><sub>CVEs Requested</sub></td>
-    </tr>
-  </table>
-</p>
-
----
-
 ### 🏆 Security Advisories & CVEs
 
 > Coordinated disclosures. Product names withheld until CVE publication.
@@ -179,15 +163,6 @@ I find vulnerabilities, confirm them with working PoCs, and report through
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javokhir-sec/javokhir-sec/output/snake-dark.svg"/>
     <img src="https://raw.githubusercontent.com/javokhir-sec/javokhir-sec/output/snake.svg" alt="snake"/>
   </picture>
-</p>
-
----
-
-### 🪲 Bug Bounty & Platforms
-
-<p align="center">
-  <a href="https://hackerone.com/pentesterjavokhir"><img src="https://img.shields.io/badge/HackerOne-pentesterjavokhir-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-  <a href="https://app.hackthebox.com/profile/overview"><img src="https://img.shields.io/badge/HTB-Lvl%2039%20%7C%20Skilled-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
 </p>
 
 ---
