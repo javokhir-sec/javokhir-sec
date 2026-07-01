@@ -136,9 +136,28 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ### 🏆 Advisories & CVEs
 
+```mermaid
+pie title Severity Distribution
+    "🔴 Critical" : 10
+    "🟠 High" : 2
+    "🟡 Medium" : 1
+```
+
+```mermaid
+pie title CWE Categories
+    "SQL Injection" : 5
+    "Auth/AC Bypass" : 3
+    "XSS" : 2
+    "File Upload RCE" : 1
+    "SSRF" : 1
+```
+
+<details>
+<summary>📋 Full Advisory Table (click to expand)</summary>
+
 <table>
 <tr>
-  <td width="60"><b>#01</b></td>
+  <td width="50"><b>#01</b></td>
   <td><b>CWE-79 · Reflected XSS</b><br><sub>299Ko CMS</sub></td>
   <td><img src="https://img.shields.io/badge/Medium-6.1-yellow?style=flat-square"/></td>
   <td><sub>📨 Maintainer notified</sub></td>
@@ -222,6 +241,8 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <td align="center"><a href="https://github.com/BoidCMS/BoidCMS/pull/49">🔗 PR</a></td>
 </tr>
 </table>
+
+</details>
 
 ---
 
