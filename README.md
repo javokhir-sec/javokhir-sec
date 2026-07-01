@@ -99,38 +99,31 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <img src="https://skillicons.dev/icons?i=php,python,bash,mysql,linux,git,docker,js,html,css,postgres,vscode,neovim" alt="skills"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>🔍 Recon</b></td>
-    <td align="center"><b>💉 Injection</b></td>
-    <td align="center"><b>🛡️ Defense</b></td>
-    <td align="center"><b>⚙️ Dev</b></td>
-  </tr>
-  <tr>
-    <td>Burp Suite</td>
-    <td>sqlmap</td>
-    <td>Wireshark</td>
-    <td>ripgrep</td>
-  </tr>
-  <tr>
-    <td>nmap</td>
-    <td>ffuf</td>
-    <td>Nuclei</td>
-    <td>semgrep</td>
-  </tr>
-  <tr>
-    <td>subfinder</td>
-    <td>XSStrike</td>
-    <td>trivy</td>
-    <td>GitHub Actions</td>
-  </tr>
-  <tr>
-    <td>httpx</td>
-    <td>NoSQLMap</td>
-    <td>falco</td>
-    <td>Docker</td>
-  </tr>
-</table>
+<p align="center">
+  <b>🔍 Recon</b><br/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/subfinder-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/httpx-00ADD8?style=for-the-badge"/>
+  <br/><br/>
+  <b>💉 Injection</b><br/>
+  <img src="https://img.shields.io/badge/sqlmap-D71313?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ffuf-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XSStrike-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NoSQLMap-2C3E50?style=for-the-badge"/>
+  <br/><br/>
+  <b>🛡️ Defense</b><br/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuclei-1B2A4A?style=for-the-badge&logo=nuclei&logoColor=white"/>
+  <img src="https://img.shields.io/badge/trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/falco-00A98F?style=for-the-badge&logo=falco&logoColor=white"/>
+  <br/><br/>
+  <b>⚙️ Dev / Code Analysis</b><br/>
+  <img src="https://img.shields.io/badge/ripgrep-444444?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/semgrep-1B2A4A?style=for-the-badge&logo=semgrep&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
