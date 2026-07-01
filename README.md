@@ -250,12 +250,6 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <a href="https://www.instagram.com/im_javokh1r_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:tursunboyevjavohir951@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/javokhir-sec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://hackerone.com/pentesterjavokhir"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PGP-Key-blue?style=flat-square&logo=protonmail&logoColor=white"/>
-  <sub>Available upon request</sub>
 </p>
 
 <p align="center">
