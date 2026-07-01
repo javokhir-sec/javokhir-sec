@@ -144,18 +144,6 @@
 
 ### 🏆 Advisories & CVEs
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><img width="350" src="https://mermaid.ink/img/cGllIHRpdGxlIFNldmVyaXR5IERpc3RyaWJ1dGlvbgogICAgIvCflLQgQ3JpdGljYWwiIDogMTAKICAgICLwn5-gIEhpZ2giIDogMgogICAgIvCfn6EgTWVkaXVtIiA6IDE"/></td>
-      <td align="center"><img width="350" src="https://mermaid.ink/img/cGllIHRpdGxlIENXRSBDYXRlZ29yaWVzCiAgICAiU1FMIEluamVjdGlvbiIgOiA1CiAgICAiQXV0aC9BQyBCeXBhc3MiIDogMwogICAgIlhTUyIgOiAyCiAgICAiUkNFIiA6IDEKICAgICJTU1JGIiA6IDE"/></td>
-    </tr>
-  </table>
-</p>
-
-<details>
-<summary>📋 Full Advisory Table (click to expand)</summary>
-
 <table>
 <tr>
   <td width="50"><b>#01</b></td>
@@ -242,8 +230,6 @@
   <td align="center"><a href="https://github.com/BoidCMS/BoidCMS/pull/49">🔗 PR</a></td>
 </tr>
 </table>
-
-</details>
 
 ---
 
