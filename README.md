@@ -38,7 +38,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 ### 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=javokhir-sec&theme=tokyonight&no-frame=true&no-bg=true&column=5&margin-w=8&rank=SECURITY,EXPERIENCE,REPOSITORY,COMMIT,STARS,FOLLOWERS,PULLREQUEST"/>
+  <img src="https://github-trophies.vercel.app/?username=javokhir-sec&theme=tokyonight&column=5&margin-w=8"/>
 </p>
 
 ---
@@ -47,10 +47,10 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 <p align="center">
   <a href="https://github.com/javokhir-sec">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=javokhir-sec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&rank_icon=github"/>
+    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=javokhir-sec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&rank_icon=github"/>
   </a>
   <a href="https://github.com/javokhir-sec">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javokhir-sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=roff"/>
+    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=javokhir-sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=roff"/>
   </a>
 </p>
 
