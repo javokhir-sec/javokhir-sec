@@ -27,12 +27,10 @@ I'm an **Offensive Security Researcher** and **Bug Bounty Hunter** focused on
 I find vulnerabilities, confirm them with working PoCs, and report through
 **coordinated / responsible disclosure** — often contributing the fix as a PR.
 
-<p>
-  <img src="https://img.shields.io/badge/🔭_Auditing-PHP_|_Python_|_JavaScript-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛡️_Specialty-XSS_|_SQLi_|_SSRF_|_SSTI_|_Auth_Bypass-9FEF00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎓_Education-B.Sc._Computer_Engineering-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌍_Location-Uzbekistan_(UTC_+05:00)-00ADD8?style=for-the-badge"/>
-</p>
+- 🔭 **Auditing** open-source web apps (PHP / Python / JavaScript)
+- 🛡️ **Specializing in:** XSS, SQL Injection, SSRF, SSTI, Path Traversal, Broken Access Control
+- 🎓 **B.Sc. Computer Engineering** — Fergana State Technical University (2020–2025)
+- 🌍 **Based in** Uzbekistan (UTC +05:00)
 
 > *"The quieter you become, the more you are able to hear."*
 
