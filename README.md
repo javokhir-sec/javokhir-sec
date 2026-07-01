@@ -36,15 +36,19 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ---
 
-### 🏅 GitHub Achievements
+<details>
+<summary><b>🏅 GitHub Achievements &nbsp; ▼</b></summary>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=javokhir-sec&theme=tokyonight&column=5&margin-w=8"/>
 </p>
 
+</details>
+
 ---
 
-### 📊 GitHub Stats
+<details>
+<summary><b>📊 GitHub Stats &nbsp; ▼</b></summary>
 
 <p align="center">
   <a href="https://github.com/javokhir-sec">
@@ -61,9 +65,12 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   </a>
 </p>
 
+</details>
+
 ---
 
-### 🔥 WakaTime (Last 30 Days)
+<details>
+<summary><b>🔥 WakaTime (Last 30 Days) &nbsp; ▼</b></summary>
 
 <p align="center">
   <a href="https://wakatime.com">
@@ -71,9 +78,12 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   </a>
 </p>
 
+</details>
+
 ---
 
-### 📈 Contribution Activity
+<details>
+<summary><b>📈 Contribution Activity &nbsp; ▼</b></summary>
 
 <p align="center">
   <picture>
@@ -81,6 +91,8 @@ I find vulnerabilities, confirm them with working PoCs, and report through
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=github&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
   </picture>
 </p>
+
+</details>
 
 ---
 
