@@ -98,20 +98,32 @@ disclosure** — often contributing the fix as a pull request.
 
 ### 📊 GitHub Stats
 
+<!-- Custom metrics — no external dependencies -->
+<table align="center">
+  <tr>
+    <td align="center"><b>🔴 10+</b><br/><sub>Critical CVEs</sub></td>
+    <td align="center"><b>🐛 65+</b><br/><sub>Vulns Found</sub></td>
+    <td align="center"><b>🔧 11</b><br/><sub>Fix PRs</sub></td>
+    <td align="center"><b>🎯 12</b><br/><sub>Targets Audited</sub></td>
+    <td align="center"><b>📜 11</b><br/><sub>CVEs Requested</sub></td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://github.com/javokhir-sec">
-    <img height="180" src="https://github-readme-stats-omega-flax.vercel.app/api?username=javokhir-sec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-    <img height="180" src="https://github-readme-stats-omega-flax.vercel.app/api/top-langs/?username=javokhir-sec&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"/>
-    <img height="180" src="https://streak-stats.demolab.com/?user=javokhir-sec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+    <img height="175" src="https://streak-stats.demolab.com/?user=javokhir-sec&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-ten.vercel.app/?username=javokhir-sec&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=5&rank=SSS,SS,S,AAA,AA,A,B"/>
+  <img src="https://github-profile-trophy-ten.vercel.app/?username=javokhir-sec&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&rank=SECURITY,EXPERIENCE,REPOSITORY,COMMIT,STARS,FOLLOWERS,PULLREQUEST"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=javokhir-sec&theme=github&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=300"/>
+  </picture>
 </p>
 
 ---
