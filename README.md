@@ -102,14 +102,6 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <img src="https://skillicons.dev/icons?i=php,python,bash,mysql,linux,git,docker,js,html,css,postgres,vscode,neovim" alt="skills"/>
 </p>
 
-<p align="center">
-  <b>🔍 Recon</b><br/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/subfinder-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/httpx-00ADD8?style=for-the-badge"/>
-</p>
-
 ---
 
 ### 🏆 Advisories & CVEs
