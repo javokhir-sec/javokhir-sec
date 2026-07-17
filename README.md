@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=%60%3Cscript%3Ealert('hacker+detected')%3C%2Fscript%3E%60;Security+Researcher+%26+Penetration+Tester;XSS+%C2%B7+SQLi+%C2%B7+SSRF+%C2%B7+Path+Traversal+%C2%B7+Auth+Bypass;Finding+%26+responsibly+disclosing+vulnerabilities;%2465%2B+vulnerabilities+%C2%B7+11+fix+PRs+%C2%B7+11+CVE+Pending;Building+a+safer+open-source+ecosystem" alt="typing"/></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=%60%3Cscript%3Ealert('hacker+detected')%3C%2Fscript%3E%60;Security+Researcher+%26+Penetration+Tester;XSS+%C2%B7+SQLi+%C2%B7+SSRF+%C2%B7+Path+Traversal+%C2%B7+Auth+Bypass;Finding+%26+responsibly+disclosing+vulnerabilities;70%2B+vulnerabilities+%C2%B7+16+fix+PRs+%C2%B7+18+CVEs+Submitted;Building+a+safer+open-source+ecosystem" alt="typing"/></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/HTB-Skilled%20%C2%B7%20Lvl%2039-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-f39c12?style=flat-square&logo=hackerone&logoColor=white"/>
   <img src="https://img.shields.io/badge/Disclosure-Responsible-2ea043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CVEs-11%20Pending-critical?style=flat-square&logo=curl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CVEs-18%20Submitted%20%2B%205%20Under%20Review-critical?style=flat-square&logo=curl&logoColor=white"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=Profile+Views"/>
   <img src="https://img.shields.io/github/followers/javokhir-sec?style=flat-square&color=2ea043&label=Followers"/>
@@ -69,7 +69,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 ### 🏆 Advisories & CVEs
 
 <details>
-<summary><b><big>🏆 ADVISORIES & CVEs  —  12 Advisories · 65+ Vulns · 11 CVEs Pending  ▼</big></b></summary>
+<summary><b><big>🏆 ADVISORIES & CVEs  —  17 Advisories · 70+ Vulns · 18 CVEs Submitted + 5 Under Review  ▼</big></b></summary>
 
 <table>
 <tr>
@@ -155,6 +155,41 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
   <td><sub>✅ Disclosed</sub></td>
   <td align="center"><a href="https://github.com/BoidCMS/BoidCMS/pull/49">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#13</b></td>
+  <td><b>CWE-918 · SSRF + LFI</b><br><sub>Leantime</sub></td>
+  <td><img src="https://img.shields.io/badge/High-8.8-orange?style=flat-square"/></td>
+  <td><sub>📨 Reported (CVE pending)</sub></td>
+  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3656">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#14</b></td>
+  <td><b>CWE-639 · IDOR</b><br><sub>Leantime</sub></td>
+  <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
+  <td><sub>📨 Reported (CVE pending)</sub></td>
+  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3657">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#15</b></td>
+  <td><b>CWE-601 · Open Redirect</b><br><sub>Leantime</sub></td>
+  <td><img src="https://img.shields.io/badge/Medium-6.1-yellow?style=flat-square"/></td>
+  <td><sub>📨 Reported (CVE pending)</sub></td>
+  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3658">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#16</b></td>
+  <td><b>CWE-352 · CSRF Disabled</b><br><sub>Leantime</sub></td>
+  <td><img src="https://img.shields.io/badge/High-8.8-orange?style=flat-square"/></td>
+  <td><sub>📨 Reported (CVE pending)</sub></td>
+  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3659">🔗 PR</a></td>
+</tr>
+<tr>
+  <td><b>#17</b></td>
+  <td><b>CWE-306 · Public CRON</b><br><sub>Leantime</sub></td>
+  <td><img src="https://img.shields.io/badge/Medium-5.3-yellow?style=flat-square"/></td>
+  <td><sub>📨 Reported (CVE pending)</sub></td>
+  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3660">🔗 PR</a></td>
 </tr>
 </table>
 
