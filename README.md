@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/HTB-Skilled%20%C2%B7%20Lvl%2039-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-f39c12?style=flat-square&logo=hackerone&logoColor=white"/>
   <img src="https://img.shields.io/badge/Disclosure-Responsible-2ea043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CVEs-18%20Submitted%20%2B%205%20Under%20Review-critical?style=flat-square&logo=curl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CVEs-18%20%40%20MITRE%20%2B%204%20%40%20VulnCheck-critical?style=flat-square&logo=curl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Leantime-Contributor-2ea043?style=flat-square&logo=laravel&logoColor=white"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=Profile+Views"/>
   <img src="https://img.shields.io/github/followers/javokhir-sec?style=flat-square&color=2ea043&label=Followers"/>
@@ -29,8 +30,10 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 - 🔭 **Auditing** open-source web apps (PHP / Python / JavaScript)
 - 🛡️ **Specializing in:** XSS, SQL Injection, SSRF, SSTI, Path Traversal, Broken Access Control
+- 🐛 **Bug Bounty:** Okta (Bugcrowd), Anthropic (HackerOne), Agoda
 - 🎓 **B.Sc. Computer Engineering** — Fergana State Technical University (2020–2025)
 - 🌍 **Based in** Uzbekistan (UTC +05:00)
+- 🏆 **Leantime Contributor** — 4 security PRs submitted to Leantime OSS
 
 > *"The quieter you become, the more you are able to hear."*
 
@@ -160,35 +163,35 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <td><b>#13</b></td>
   <td><b>CWE-918 · SSRF + LFI</b><br><sub>Leantime</sub></td>
   <td><img src="https://img.shields.io/badge/High-8.8-orange?style=flat-square"/></td>
-  <td><sub>📨 Reported (CVE pending)</sub></td>
+  <td><sub>📨 Reported (CVE under VulnCheck review)</sub></td>
   <td align="center"><a href="https://github.com/Leantime/leantime/pull/3656">🔗 PR</a></td>
 </tr>
 <tr>
   <td><b>#14</b></td>
   <td><b>CWE-639 · IDOR</b><br><sub>Leantime</sub></td>
   <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
-  <td><sub>📨 Reported (CVE pending)</sub></td>
+  <td><sub>📨 Reported (CVE under VulnCheck review)</sub></td>
   <td align="center"><a href="https://github.com/Leantime/leantime/pull/3657">🔗 PR</a></td>
 </tr>
 <tr>
   <td><b>#15</b></td>
   <td><b>CWE-601 · Open Redirect</b><br><sub>Leantime</sub></td>
   <td><img src="https://img.shields.io/badge/Medium-6.1-yellow?style=flat-square"/></td>
-  <td><sub>📨 Reported (CVE pending)</sub></td>
+  <td><sub>📨 Reported (CVE under VulnCheck review)</sub></td>
   <td align="center"><a href="https://github.com/Leantime/leantime/pull/3658">🔗 PR</a></td>
 </tr>
 <tr>
   <td><b>#16</b></td>
   <td><b>CWE-352 · CSRF Disabled</b><br><sub>Leantime</sub></td>
   <td><img src="https://img.shields.io/badge/High-8.8-orange?style=flat-square"/></td>
-  <td><sub>📨 Reported (CVE pending)</sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3659">🔗 PR</a></td>
+  <td><sub>📨 Reported (CVE under VulnCheck review)</sub></td>
+  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3670">🔗 PR</a></td>
 </tr>
 <tr>
   <td><b>#17</b></td>
   <td><b>CWE-306 · Public CRON</b><br><sub>Leantime</sub></td>
   <td><img src="https://img.shields.io/badge/Medium-5.3-yellow?style=flat-square"/></td>
-  <td><sub>📨 Reported (CVE pending)</sub></td>
+  <td><sub>📨 Reported (CVE under VulnCheck review)</sub></td>
   <td align="center"><a href="https://github.com/Leantime/leantime/pull/3660">🔗 PR</a></td>
 </tr>
 </table>
