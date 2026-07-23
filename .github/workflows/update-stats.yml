@@ -1,0 +1,39 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Daily at 8am UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update stats badges
+        run: |
+          # Get stats from GitHub API
+          FOLLOWERS=$(gh api users/javokhir-sec --jq '.followers')
+          STARS=$(gh api users/javokhir-sec/repos --jq '[.[].stargazers_count] | add')
+          TOTAL_REPOS=$(gh api users/javokhir-sec --jq '.public_repos')
+
+          # Update README badges
+          sed -i "s|Followers-.*-|Followers-${FOLLOWERS}-|g" README.md
+          sed -i "s|Stars-.*&|Stars-${STARS}\&|g" README.md
+          
+          echo "Stats: Followers=$FOLLOWERS Stars=$STARS Repos=$TOTAL_REPOS"
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Commit if changed
+        run: |
+          if ! git diff --exit-code; then
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git add README.md
+            git commit -m "auto: update profile stats [skip ci]"
+            git push
+          fi
