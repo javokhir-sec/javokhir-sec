@@ -171,7 +171,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <td><b>#14</b></td>
   <td><b>CWE-639 · IDOR</b><br><sub>Leantime (⭐10k+)</sub></td>
   <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
-  <td><sub>✅ <b>PUBLISHED: CVE-2026-66412</b></sub></td>
+  <td><sub>✅ <b><a href="https://www.cve.org/CVERecord?id=CVE-2026-66412">CVE-2026-66412</a></b></sub></td>
   <td align="center"><a href="https://github.com/Leantime/leantime/pull/3657">🔗 Merged</a></td>
 </tr>
 <tr>
