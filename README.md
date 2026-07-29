@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/HTB-Skilled%20%C2%B7%20Lvl%2039-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-f39c12?style=flat-square&logo=hackerone&logoColor=white"/>
   <img src="https://img.shields.io/badge/Disclosure-Responsible-2ea043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CVEs-1%20PUBLISHED%20%C2%B7%2019%20Under%20Review-critical?style=flat-square&logo=cve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CVEs-1%20PUBLISHED%20%C2%B7%207%20Active%20%C2%B7%204%20SuiteCRM%20Triage-critical?style=flat-square&logo=cve&logoColor=white"/>
   <img src="https://img.shields.io/badge/Leantime-Contributor-2ea043?style=flat-square&logo=laravel&logoColor=white"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=Profile+Views"/>
@@ -34,7 +34,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 - 🎓 **B.Sc. Computer Engineering** — Fergana State Technical University (2020–2025)
 - 🌍 **Based in** Uzbekistan (UTC +05:00)
 - 🏆 **Leantime Contributor** — 5 security PRs submitted to Leantime OSS
-- 📡 **CVE via:** VulnCheck CNA (1 Published, 19 Under Review)
+- 📡 **CVE via:** VulnCheck CNA (1 Published, 7 Active) + GitHub Advisories (4 SuiteCRM)
 
 > *"The quieter you become, the more you are able to hear."*
 
@@ -58,6 +58,13 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <a href="https://github.com/javokhir-sec/awesome-bugbounty-resources">
     <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=javokhir-sec&repo=awesome-bugbounty-resources&theme=tokyonight&hide_border=true"/>
   </a>
+  <br/>
+  <a href="https://github.com/javokhir-sec/tools-lab">
+    <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=javokhir-sec&repo=tools-lab&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/javokhir-sec/CVE-PoC-Hub">
+    <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=javokhir-sec&repo=CVE-PoC-Hub&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 ---
@@ -73,157 +80,63 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 ### 🏆 Advisories & CVEs
 
 <details>
-<summary><b><big>🏆 ADVISORIES & CVEs  —  21 Advisories · 80+ Vulns · 1 PUBLISHED + 19 Under VulnCheck Review  ▼</big></b></summary>
+<summary><b><big>🏆 ADVISORIES & CVEs  —  25 Advisories · 80+ Vulns · 1 PUBLISHED + 7 Active + 4 SuiteCRM Triage  ▼</big></b></summary>
 
-<table>
-<tr>
-  <td width="50"><b>#01</b></td>
-  <td><b>CWE-79 · Reflected XSS</b><br><sub>299Ko CMS</sub></td>
-  <td><img src="https://img.shields.io/badge/Medium-6.1-yellow?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/299Ko/299ko/pull/52">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#02</b></td>
-  <td><b>CWE-862 · Broken Access Control</b><br><sub>Toner Management</sub></td>
-  <td><img src="https://img.shields.io/badge/High-8.2-orange?style=flat-square"/></td>
-  <td><sub>✅ MERGED · ⏳ VulnCheck</sub></td>
-  <td align="center"><a href="https://github.com/raghav993/toner-management/pull/1">🔗 Merged</a></td>
-</tr>
-<tr>
-  <td><b>#03</b></td>
-  <td><b>CWE-89 · SQLi → Auth Bypass</b><br><sub>Inventory Management (PHP)</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/Harsh21Patel/Inventory-Management-System-PHP/pull/3">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#04</b></td>
-  <td><b>CWE-89 · SQL Injection ×5</b> + XSS<br><sub>Simple Inventory PHP</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/amine-CS96/Simple-Inventory-PHP/pull/1">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#05</b></td>
-  <td><b>CWE-287 · Auth Bypass</b> + Open Redirect<br><sub>HC Store Purchase Order</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/HasithKarunarathne/HC-store-purchase-order-system/pull/1">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#06</b></td>
-  <td><b>CWE-434 · File Upload → RCE</b> + IDOR<br><sub>Marketplace Management</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.0-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/ElloRabyndra/MarketPlaceManagement/pull/2">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#07</b></td>
-  <td><b>CWE-306 · Auth Bypass</b><br><sub>MobiMart</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.1-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/dimuthadithya/MobiMart/pull/4">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#08</b></td>
-  <td><b>CWE-89 · SQLi ×3</b> + Auth + CSRF + InfoDiscl<br><sub>Premium Property Management</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/digitalengineer07/Premium-Property-Management-System/pull/1">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#09</b></td>
-  <td><b>CWE-89 · SQLi ×7</b> + XSS + Plaintext<br><sub>CampusHub</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/Rishith-Yadav/CampusHub/pull/1">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#10</b></td>
-  <td><b>CWE-89 · SQLi ×2</b> + XSS ×2 + CSRF ×2<br><sub>Public Utility Management</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/Dusterian/Public-Utility-Management-System/pull/1">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#11</b></td>
-  <td><b>CWE-918 · SSRF ×2</b> + XSS + Redirect + HardcodedKey<br><sub>da.gd (DAGD URL Shortener)</sub></td>
-  <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://codeberg.org/dagd/dagd/pulls/81">🔗 PR (Codeberg)</a></td>
-</tr>
-<tr>
-  <td><b>#12</b></td>
-  <td><b>CWE-79 + CWE-538 + CWE-307</b><br><sub>BoidCMS</sub></td>
-  <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/BoidCMS/BoidCMS/pull/49">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#13</b></td>
-  <td><b>CWE-918 · SSRF + LFI</b><br><sub>Leantime (⭐10k+)</sub></td>
-  <td><img src="https://img.shields.io/badge/High-8.8-orange?style=flat-square"/></td>
-  <td><sub>⏳ Khushali (VulnCheck) publish</sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3656">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#14</b></td>
-  <td><b>CWE-639 · IDOR</b><br><sub>Leantime (⭐10k+)</sub></td>
-  <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
-  <td><sub>✅ <b><a href="https://www.cve.org/CVERecord?id=CVE-2026-66412">CVE-2026-66412</a></b></sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3657">🔗 Merged</a></td>
-</tr>
-<tr>
-  <td><b>#15</b></td>
-  <td><b>CWE-601 · Open Redirect</b><br><sub>Leantime (⭐10k+)</sub></td>
-  <td><img src="https://img.shields.io/badge/Medium-6.1-yellow?style=flat-square"/></td>
-  <td><sub>⏳ Khushali (VulnCheck) publish</sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3658">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#16</b></td>
-  <td><b>CWE-352 · CSRF Disabled</b><br><sub>Leantime (⭐10k+)</sub></td>
-  <td><img src="https://img.shields.io/badge/High-8.8-orange?style=flat-square"/></td>
-  <td><sub>⏳ Khushali (VulnCheck) publish</sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3670">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#17</b></td>
-  <td><b>CWE-306 · Public CRON</b><br><sub>Leantime (⭐10k+)</sub></td>
-  <td><img src="https://img.shields.io/badge/Medium-5.3-yellow?style=flat-square"/></td>
-  <td><sub>❌ Disputed (intended behavior)</sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3660">🔗 Closed</a></td>
-</tr>
-<tr>
-  <td><b>#18</b></td>
-  <td><b>CWE-89 · SQLi ×8</b> (Unauth)<br><sub>Pharmacy Management System</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/javokhir-sec/pharmacy-management-system/security/advisories/GHSA-g922-465q-5xx3">🔗 GHSA</a></td>
-</tr>
-<tr>
-  <td><b>#19</b></td>
-  <td><b>CWE-89 · SQLi → Auth Bypass</b> (Unauth)<br><sub>Student Management PHP</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/javokhir-sec/Student-Management-System-PHP/security/advisories/GHSA-hpgc-wj5h-7qm6">🔗 GHSA</a></td>
-</tr>
-<tr>
-  <td><b>#20</b></td>
-  <td><b>CWE-22 · Unauth LFI</b><br><sub>vqgen</sub></td>
-  <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/javokhir-sec/vqgen/security/advisories/GHSA-frhq-8rh2-2r3g">🔗 GHSA</a></td>
-</tr>
-<tr>
-  <td><b>#21</b></td>
-  <td><b>CWE-89 · SQLi ×5</b> (Unauth)<br><sub>Hospital Management PHP</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.1-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/javokhir-sec/hospital-management-system-php-mysql/security/advisories/GHSA-mh9r-4jgv-fg5q">🔗 GHSA</a></td>
-</tr>
-</table>
+<br/>
+
+### 🔥 ACTIVE — GitHub Security Advisories (SuiteCRM ⭐5,600)
+
+| # | GHSA | Vulnerability | CVSS | SuiteCRM ID | Status |
+|---|------|---------------|------|-------------|--------|
+| 01 | [GHSA-xq73-pwv7-jcvg](https://github.com/SuiteCRM/SuiteCRM/security/advisories/GHSA-xq73-pwv7-jcvg) | **Unauth SQLi** GeneratePassword | 9.8 🔴 | SCRMBT-480 | `triage` |
+| 02 | [GHSA-m4vv-h45q-rvvf](https://github.com/SuiteCRM/SuiteCRM/security/advisories/GHSA-m4vv-h45q-rvvf) | File Upload **Case Bypass** | 8.8 🟠 | SCRMBT-481 | `triage` |
+| 03 | [GHSA-w59p-wvpf-gmm5](https://github.com/SuiteCRM/SuiteCRM/security/advisories/GHSA-w59p-wvpf-gmm5) | File Upload **GD Bypass RCE** | 8.8 🟠 | SCRMBT-482 | `triage` |
+| 04 | [GHSA-h87x-44w6-3q7f](https://github.com/SuiteCRM/SuiteCRM/security/advisories/GHSA-h87x-44w6-3q7f) | Unauth **XSS** WebToLead | 8.2 🟡 | SCRMBT-483 | `triage` |
+
+### 🔥 ACTIVE — VulnCheck Submissions (500+ ⭐ targets)
+
+| # | Target | ⭐ | Vulnerability | CVSS | VulnCheck ID | Status |
+|---|--------|----|---------------|------|-------------|--------|
+| 05 | **SuiteCRM** | 5,600 | Unauth SQLi Password Reset | 9.8 | 486f0ef7 | ⏳ Review |
+| 06 | **BookStack** | 18,947 | SSRF via Webhooks | 8.8 | 732ab434 | ⏳ Review |
+| 07 | **DokuWiki** | 4,693 | SSRF via RSS Parser | 8.8 | 6d4dcd75 | ⚠️ Invalid per SECURITY.md |
+
+### 🟢 Leantime (⭐11,133)
+
+| # | CVE / Status | Vulnerability | CVSS | PR |
+|---|-------------|---------------|------|----|
+| 08 | **CVE-2026-66412** ✅ | IDOR getMilestone() | 7.5 | [#3657](https://github.com/Leantime/leantime/pull/3657) Merged |
+| 09 | ⏳ Khushali | SSRF + LFI Blueprints | 8.8 | [#3656](https://github.com/Leantime/leantime/pull/3656) |
+| 10 | ⏳ Khushali | Open Redirect Login | 6.1 | [#3658](https://github.com/Leantime/leantime/pull/3658) |
+| 11 | ⏳ Khushali | CSRF Globally Disabled | 8.8 | [#3670](https://github.com/Leantime/leantime/pull/3670) |
+
+### 🗄️ Archived — VulnCheck Rejected (16 targets, July 2026)
+
+Wade Sparks (VulnCheck): *"Not widely-used commercial software"*
+
+<details>
+<summary><b>16 rejected targets (click to expand)</b></summary>
+
+| Target | Best Finding | CVSS | PR |
+|--------|-------------|------|-----|
+| 299Ko CMS | Reflected XSS | 6.1 | [#52](https://github.com/299Ko/299ko/pull/52) |
+| Toner Management | BAC | 8.2 | [#1](https://github.com/raghav993/toner-management/pull/1) |
+| Inventory Mgmt | SQLi Auth Bypass | 9.8 | [#3](https://github.com/Harsh21Patel/Inventory-Management-System-PHP/pull/3) |
+| Simple Inventory | SQLi ×5 + XSS | 9.8 | [#1](https://github.com/amine-CS96/Simple-Inventory-PHP/pull/1) |
+| HC Store | Auth Bypass | 9.8 | [#1](https://github.com/HasithKarunarathne/HC-store-purchase-order-system/pull/1) |
+| Marketplace Mgmt | File Upload RCE + IDOR | 9.0 | [#2](https://github.com/ElloRabyndra/MarketPlaceManagement/pull/2) |
+| MobiMart | Auth Bypass | 9.1 | [#4](https://github.com/dimuthadithya/MobiMart/pull/4) |
+| Premium Property | SQLi ×3 + Auth + CSRF | 9.8 | [#1](https://github.com/digitalengineer07/Premium-Property-Management-System/pull/1) |
+| CampusHub | SQLi ×7 + XSS | 9.8 | [#1](https://github.com/Rishith-Yadav/CampusHub/pull/1) |
+| Public Utility | SQLi ×2 + XSS + CSRF | 9.8 | [#1](https://github.com/Dusterian/Public-Utility-Management-System/pull/1) |
+| DAGD (da.gd) | SSRF ×2 + XSS | 7.5 | [#81](https://codeberg.org/dagd/dagd/pulls/81) Codeberg |
+| BoidCMS | XSS + .git + BruteForce | 7.5 | [#49](https://github.com/BoidCMS/BoidCMS/pull/49) |
+| Pharmacy Mgmt | SQLi ×8 (Unauth) | 9.8 | [GHSA](https://github.com/javokhir-sec/pharmacy-management-system/security/advisories/GHSA-g922-465q-5xx3) |
+| Student Mgmt | SQLi Auth Bypass | 9.8 | [GHSA](https://github.com/javokhir-sec/Student-Management-System-PHP/security/advisories/GHSA-hpgc-wj5h-7qm6) |
+| vqgen | Unauth LFI | 7.5 | [GHSA](https://github.com/javokhir-sec/vqgen/security/advisories/GHSA-frhq-8rh2-2r3g) |
+| Hospital Mgmt | SQLi ×5 (Unauth) | 9.1 | [GHSA](https://github.com/javokhir-sec/hospital-management-system-php-mysql/security/advisories/GHSA-mh9r-4jgv-fg5q) |
+
+</details>
 
 </details>
 
