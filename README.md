@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/HTB-Skilled%20%C2%B7%20Lvl%2039-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-f39c12?style=flat-square&logo=hackerone&logoColor=white"/>
   <img src="https://img.shields.io/badge/Disclosure-Responsible-2ea043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CVEs-4%20PUBLISHED%20%C2%B7%2016%20Under%20Review-critical?style=flat-square&logo=cve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CVEs-4%20PUBLISHED%20%C2%B7%205%20VulnCheck%20%C2%B7%204%20SuiteCRM-critical?style=flat-square&logo=cve&logoColor=white"/>
   <img src="https://img.shields.io/badge/Leantime-Contributor-2ea043?style=flat-square&logo=laravel&logoColor=white"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=Profile+Views"/>
@@ -34,7 +34,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 - 🎓 **B.Sc. Computer Engineering** — Fergana State Technical University (2020–2025)
 - 🌍 **Based in** Uzbekistan (UTC +05:00)
 - 🏆 **Leantime Contributor** — 5 security PRs submitted to Leantime OSS
-- 📡 **CVE via:** VulnCheck CNA (4 Published, 16 Under Review)
+- 📡 **CVE via:** VulnCheck CNA — 4 Published + 5 Review + 4 SuiteCRM Triage
 
 > *"The quieter you become, the more you are able to hear."*
 
@@ -71,164 +71,38 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 ---
 
 ### 🏆 Advisories & CVEs
-
 <details>
-<summary><b><big>🏆 ADVISORIES & CVEs  —  21 Advisories · 80+ Vulns · 4 PUBLISHED + 16 Under VulnCheck Review  ▼</big></b></summary>
+<summary><b><big>🏆 ADVISORIES & CVEs  —  4 PUBLISHED · 4 SuiteCRM Triage · 5 VulnCheck Review  ▼</big></b></summary>
 
-<table>
-<tr>
-  <td width="50"><b>#01</b></td>
-  <td><b>CWE-79 · Reflected XSS</b><br><sub>299Ko CMS</sub></td>
-  <td><img src="https://img.shields.io/badge/Medium-6.1-yellow?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/299Ko/299ko/pull/52">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#02</b></td>
-  <td><b>CWE-862 · Broken Access Control</b><br><sub>Toner Management</sub></td>
-  <td><img src="https://img.shields.io/badge/High-8.2-orange?style=flat-square"/></td>
-  <td><sub>✅ MERGED · ⏳ VulnCheck</sub></td>
-  <td align="center"><a href="https://github.com/raghav993/toner-management/pull/1">🔗 Merged</a></td>
-</tr>
-<tr>
-  <td><b>#03</b></td>
-  <td><b>CWE-89 · SQLi → Auth Bypass</b><br><sub>Inventory Management (PHP)</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/Harsh21Patel/Inventory-Management-System-PHP/pull/3">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#04</b></td>
-  <td><b>CWE-89 · SQL Injection ×5</b> + XSS<br><sub>Simple Inventory PHP</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/amine-CS96/Simple-Inventory-PHP/pull/1">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#05</b></td>
-  <td><b>CWE-287 · Auth Bypass</b> + Open Redirect<br><sub>HC Store Purchase Order</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/HasithKarunarathne/HC-store-purchase-order-system/pull/1">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#06</b></td>
-  <td><b>CWE-434 · File Upload → RCE</b> + IDOR<br><sub>Marketplace Management</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.0-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/ElloRabyndra/MarketPlaceManagement/pull/2">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#07</b></td>
-  <td><b>CWE-306 · Auth Bypass</b><br><sub>MobiMart</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.1-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/dimuthadithya/MobiMart/pull/4">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#08</b></td>
-  <td><b>CWE-89 · SQLi ×3</b> + Auth + CSRF + InfoDiscl<br><sub>Premium Property Management</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/digitalengineer07/Premium-Property-Management-System/pull/1">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#09</b></td>
-  <td><b>CWE-89 · SQLi ×7</b> + XSS + Plaintext<br><sub>CampusHub</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/Rishith-Yadav/CampusHub/pull/1">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#10</b></td>
-  <td><b>CWE-89 · SQLi ×2</b> + XSS ×2 + CSRF ×2<br><sub>Public Utility Management</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/Dusterian/Public-Utility-Management-System/pull/1">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#11</b></td>
-  <td><b>CWE-918 · SSRF ×2</b> + XSS + Redirect + HardcodedKey<br><sub>da.gd (DAGD URL Shortener)</sub></td>
-  <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://codeberg.org/dagd/dagd/pulls/81">🔗 PR (Codeberg)</a></td>
-</tr>
-<tr>
-  <td><b>#12</b></td>
-  <td><b>CWE-79 + CWE-538 + CWE-307</b><br><sub>BoidCMS</sub></td>
-  <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/BoidCMS/BoidCMS/pull/49">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#13</b></td>
-  <td><b>CWE-918 · SSRF + LFI</b><br><sub>Leantime (⭐10k+)</sub></td>
-  <td><img src="https://img.shields.io/badge/High-8.8-orange?style=flat-square"/></td>
-  <td><sub>✅ <b><a href="https://www.cve.org/CVERecord?id=CVE-2026-66415">CVE-2026-66415</a></b></sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3656">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#14</b></td>
-  <td><b>CWE-639 · IDOR</b><br><sub>Leantime (⭐10k+)</sub></td>
-  <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
-  <td><sub>✅ <b><a href="https://www.cve.org/CVERecord?id=CVE-2026-66412">CVE-2026-66412</a></b></sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3657">🔗 Merged</a></td>
-</tr>
-<tr>
-  <td><b>#15</b></td>
-  <td><b>CWE-601 · Open Redirect</b><br><sub>Leantime (⭐10k+)</sub></td>
-  <td><img src="https://img.shields.io/badge/Medium-6.1-yellow?style=flat-square"/></td>
-  <td><sub>✅ <b><a href="https://www.cve.org/CVERecord?id=CVE-2026-66414">CVE-2026-66414</a></b></sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3658">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#16</b></td>
-  <td><b>CWE-352 · CSRF Disabled</b><br><sub>Leantime (⭐10k+)</sub></td>
-  <td><img src="https://img.shields.io/badge/High-8.8-orange?style=flat-square"/></td>
-  <td><sub>✅ <b><a href="https://www.cve.org/CVERecord?id=CVE-2026-66416">CVE-2026-66416</a></b></sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3670">🔗 PR</a></td>
-</tr>
-<tr>
-  <td><b>#17</b></td>
-  <td><b>CWE-306 · Public CRON</b><br><sub>Leantime (⭐10k+)</sub></td>
-  <td><img src="https://img.shields.io/badge/Medium-5.3-yellow?style=flat-square"/></td>
-  <td><sub>❌ Disputed (intended behavior)</sub></td>
-  <td align="center"><a href="https://github.com/Leantime/leantime/pull/3660">🔗 Closed</a></td>
-</tr>
-<tr>
-  <td><b>#18</b></td>
-  <td><b>CWE-89 · SQLi ×8</b> (Unauth)<br><sub>Pharmacy Management System</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/javokhir-sec/pharmacy-management-system/security/advisories/GHSA-g922-465q-5xx3">🔗 GHSA</a></td>
-</tr>
-<tr>
-  <td><b>#19</b></td>
-  <td><b>CWE-89 · SQLi → Auth Bypass</b> (Unauth)<br><sub>Student Management PHP</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.8-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/javokhir-sec/Student-Management-System-PHP/security/advisories/GHSA-hpgc-wj5h-7qm6">🔗 GHSA</a></td>
-</tr>
-<tr>
-  <td><b>#20</b></td>
-  <td><b>CWE-22 · Unauth LFI</b><br><sub>vqgen</sub></td>
-  <td><img src="https://img.shields.io/badge/High-7.5-orange?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/javokhir-sec/vqgen/security/advisories/GHSA-frhq-8rh2-2r3g">🔗 GHSA</a></td>
-</tr>
-<tr>
-  <td><b>#21</b></td>
-  <td><b>CWE-89 · SQLi ×5</b> (Unauth)<br><sub>Hospital Management PHP</sub></td>
-  <td><img src="https://img.shields.io/badge/Critical-9.1-red?style=flat-square"/></td>
-  <td><sub>⏳ VulnCheck review</sub></td>
-  <td align="center"><a href="https://github.com/javokhir-sec/hospital-management-system-php-mysql/security/advisories/GHSA-mh9r-4jgv-fg5q">🔗 GHSA</a></td>
-</tr>
-</table>
+### ✅ PUBLISHED (4 CVEs)
+
+| # | CVE | Product | Type | CVSS |
+|---|-----|---------|------|------|
+| 1 | [CVE-2026-66412](https://www.cve.org/CVERecord?id=CVE-2026-66412) | Leantime ⭐10k+ | IDOR (getMilestone) | 7.5 |
+| 2 | [CVE-2026-66414](https://www.cve.org/CVERecord?id=CVE-2026-66414) | Leantime ⭐10k+ | Open Redirect | 6.1 |
+| 3 | [CVE-2026-66415](https://www.cve.org/CVERecord?id=CVE-2026-66415) | Leantime ⭐10k+ | SSRF + LFI | 8.8 |
+| 4 | [CVE-2026-66416](https://www.cve.org/CVERecord?id=CVE-2026-66416) | Leantime ⭐10k+ | CSRF Disabled | 8.8 |
+
+### ⏳ SuiteCRM — GitHub Security Advisories (Triage)
+
+| # | GHSA | Type | CVSS | Internal |
+|---|------|------|------|----------|
+| 1 | GHSA-xq73-pwv7-jcvg | Unauth SQLi (GeneratePassword) | 9.8 | SCRMBT-480 |
+| 2 | GHSA-m4vv-h45q-rvvf | File Upload Case Bypass | 8.8 | SCRMBT-481 |
+| 3 | GHSA-w59p-wvpf-gmm5 | File Upload GD Bypass RCE | 8.8 | SCRMBT-482 |
+| 4 | GHSA-h87x-44w6-3q7f | Unauth XSS (WebToLead) | 8.2 | SCRMBT-483 |
+
+### ⏳ VulnCheck — Review (July 29)
+
+| # | Target | Type | CVSS |
+|---|--------|------|------|
+| 1 | eGov SmartCity | Struts2 RCE (OGNL) | 10.0 |
+| 2 | Tesla Vehicle CMD | JWT No Signature Check | 8.8 |
+| 3 | OzonTech file.d | Missing Auth (10+ endpoints) | 8.2 |
+| 4 | Gojek Darkroom | Path Traversal | 7.5 |
+| 5 | Kaspersky KLara | No Rate Limit | 6.5 |
 
 </details>
-
----
-
 ### 🎓 Certifications
 
 <p align="center">
