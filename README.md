@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/HTB-Skilled%20%C2%B7%20Lvl%2039-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-f39c12?style=flat-square&logo=hackerone&logoColor=white"/>
   <img src="https://img.shields.io/badge/Disclosure-Responsible-2ea043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CVEs-1%20PUBLISHED%20%C2%B7%2019%20Under%20Review-critical?style=flat-square&logo=cve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CVEs-4%20PUBLISHED%20%C2%B7%2016%20Under%20Review-critical?style=flat-square&logo=cve&logoColor=white"/>
   <img src="https://img.shields.io/badge/Leantime-Contributor-2ea043?style=flat-square&logo=laravel&logoColor=white"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=Profile+Views"/>
@@ -34,7 +34,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 - 🎓 **B.Sc. Computer Engineering** — Fergana State Technical University (2020–2025)
 - 🌍 **Based in** Uzbekistan (UTC +05:00)
 - 🏆 **Leantime Contributor** — 5 security PRs submitted to Leantime OSS
-- 📡 **CVE via:** VulnCheck CNA (1 Published, 19 Under Review)
+- 📡 **CVE via:** VulnCheck CNA (4 Published, 16 Under Review)
 
 > *"The quieter you become, the more you are able to hear."*
 
@@ -73,7 +73,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 ### 🏆 Advisories & CVEs
 
 <details>
-<summary><b><big>🏆 ADVISORIES & CVEs  —  21 Advisories · 80+ Vulns · 1 PUBLISHED + 19 Under VulnCheck Review  ▼</big></b></summary>
+<summary><b><big>🏆 ADVISORIES & CVEs  —  21 Advisories · 80+ Vulns · 4 PUBLISHED + 16 Under VulnCheck Review  ▼</big></b></summary>
 
 <table>
 <tr>
@@ -164,7 +164,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <td><b>#13</b></td>
   <td><b>CWE-918 · SSRF + LFI</b><br><sub>Leantime (⭐10k+)</sub></td>
   <td><img src="https://img.shields.io/badge/High-8.8-orange?style=flat-square"/></td>
-  <td><sub>⏳ Khushali (VulnCheck) publish</sub></td>
+  <td><sub>✅ <b><a href="https://www.cve.org/CVERecord?id=CVE-2026-66415">CVE-2026-66415</a></b></sub></td>
   <td align="center"><a href="https://github.com/Leantime/leantime/pull/3656">🔗 PR</a></td>
 </tr>
 <tr>
@@ -178,14 +178,14 @@ I find vulnerabilities, confirm them with working PoCs, and report through
   <td><b>#15</b></td>
   <td><b>CWE-601 · Open Redirect</b><br><sub>Leantime (⭐10k+)</sub></td>
   <td><img src="https://img.shields.io/badge/Medium-6.1-yellow?style=flat-square"/></td>
-  <td><sub>⏳ Khushali (VulnCheck) publish</sub></td>
+  <td><sub>✅ <b><a href="https://www.cve.org/CVERecord?id=CVE-2026-66414">CVE-2026-66414</a></b></sub></td>
   <td align="center"><a href="https://github.com/Leantime/leantime/pull/3658">🔗 PR</a></td>
 </tr>
 <tr>
   <td><b>#16</b></td>
   <td><b>CWE-352 · CSRF Disabled</b><br><sub>Leantime (⭐10k+)</sub></td>
   <td><img src="https://img.shields.io/badge/High-8.8-orange?style=flat-square"/></td>
-  <td><sub>⏳ Khushali (VulnCheck) publish</sub></td>
+  <td><sub>✅ <b><a href="https://www.cve.org/CVERecord?id=CVE-2026-66416">CVE-2026-66416</a></b></sub></td>
   <td align="center"><a href="https://github.com/Leantime/leantime/pull/3670">🔗 PR</a></td>
 </tr>
 <tr>
