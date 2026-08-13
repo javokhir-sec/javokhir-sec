@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/HTB-Skilled%20%C2%B7%20Lvl%2039-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-f39c12?style=flat-square&logo=hackerone&logoColor=white"/>
   <img src="https://img.shields.io/badge/Disclosure-Responsible-2ea043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CVEs-4%20PUBLISHED%20%C2%B7%205%20VulnCheck%20Review-critical?style=flat-square&logo=cve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CVEs-4%20PUBLISHED%20%C2%B7%201%20Verified%20Defending-critical?style=flat-square&logo=cve&logoColor=white"/>
   <img src="https://img.shields.io/badge/Leantime-Contributor-2ea043?style=flat-square&logo=laravel&logoColor=white"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=Profile+Views"/>
@@ -34,7 +34,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 - 🎓 **B.Sc. Computer Engineering** — Fergana State Technical University (2020–2025)
 - 🌍 **Based in** Uzbekistan (UTC +05:00)
 - 🏆 **Leantime Contributor** — 5 security PRs submitted to Leantime OSS
-- 📡 **CVE via:** VulnCheck CNA — 4 Published + 5 VulnCheck Review
+- 📡 **CVE via:** VulnCheck CNA — 4 Published + 1 VulnCheck Verified
 
 > *"The quieter you become, the more you are able to hear."*
 
@@ -72,7 +72,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ### 🏆 Advisories & CVEs
 <details>
-<summary><b><big>🏆 ADVISORIES & CVEs  —  4 PUBLISHED · 5 VulnCheck Review · SuiteCRM Batch Withdrawn  ▼</big></b></summary>
+<summary><b><big>🏆 ADVISORIES 🏆 ADVISORIES & CVEs  —  4 PUBLISHED · 5 VulnCheck Review · SuiteCRM Batch Withdrawn CVEs  —  4 PUBLISHED · 1 VulnCheck Verified · 9 Withdrawn  ▼</big></b></summary>
 
 ### ✅ PUBLISHED (4 CVEs)
 
@@ -98,11 +98,18 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 | # | Target | Type | CVSS |
 |---|--------|------|------|
-| 1 | eGov SmartCity | Struts2 RCE (OGNL) | 10.0 |
-| 2 | Tesla Vehicle CMD | JWT No Signature Check | 8.8 |
-| 3 | OzonTech file.d | Missing Auth (10+ endpoints) | 8.2 |
-| 4 | Gojek Darkroom | Path Traversal | 7.5 |
-| 5 | Kaspersky KLara | No Rate Limit | 6.5 |
+| 1 | OzonTech file.d | Unauth Mgmt API (:9000) | 8.2 |
+
+*file.d live-verified 2026-08-13 (built + run + unauthenticated curl evidence on all claimed endpoints) — defending with corrected technical write-up.*
+
+### 🗑️ VulnCheck — Withdrawn after live verification (2026-08-13)
+
+| Target | Type | CVSS | Why |
+|--------|------|------|-----|
+| eGov SmartCity | Struts2 RCE | 10.0 | S2-045/046 don't affect 2.5.14.1; S2-057 = existing CVE-2018-11776 |
+| Tesla Vehicle CMD | JWT No Verify | 8.8 | By design: fleet API verifies token — forged JWT → 401 (live tested) |
+| Gojek Darkroom | Path Traversal | 7.5 | mux `cleanPath` 301-blocks `../` (live tested) |
+| Kaspersky KLara | No Rate Limit | 6.5 | Hardening gap, not CVE-worthy |
 
 </details>
 ### 🎓 Certifications
