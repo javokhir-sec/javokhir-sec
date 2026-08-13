@@ -72,7 +72,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ### 🏆 Advisories & CVEs
 <details>
-<summary><b><big>🏆 ADVISORIES 🏆 ADVISORIES & CVEs  —  4 PUBLISHED · 5 VulnCheck Review · SuiteCRM Batch Withdrawn CVEs  —  4 PUBLISHED · 1 VulnCheck Verified · 9 Withdrawn  ▼</big></b></summary>
+<summary><b><big>🏆 ADVISORIES & CVEs  —  4 PUBLISHED · 1 VulnCheck Verified · 9 Withdrawn  ▼</big></b></summary>
 
 ### ✅ PUBLISHED (4 CVEs)
 
