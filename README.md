@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/HTB-Skilled%20%C2%B7%20Lvl%2039-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-f39c12?style=flat-square&logo=hackerone&logoColor=white"/>
   <img src="https://img.shields.io/badge/Disclosure-Responsible-2ea043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CVEs-4%20PUBLISHED%20%C2%B7%205%20VulnCheck%20%C2%B7%203%20SuiteCRM-critical?style=flat-square&logo=cve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CVEs-4%20PUBLISHED%20%C2%B7%205%20VulnCheck%20Review-critical?style=flat-square&logo=cve&logoColor=white"/>
   <img src="https://img.shields.io/badge/Leantime-Contributor-2ea043?style=flat-square&logo=laravel&logoColor=white"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=Profile+Views"/>
@@ -34,7 +34,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 - 🎓 **B.Sc. Computer Engineering** — Fergana State Technical University (2020–2025)
 - 🌍 **Based in** Uzbekistan (UTC +05:00)
 - 🏆 **Leantime Contributor** — 5 security PRs submitted to Leantime OSS
-- 📡 **CVE via:** VulnCheck CNA — 4 Published + 5 Review + 3 SuiteCRM Triage
+- 📡 **CVE via:** VulnCheck CNA — 4 Published + 5 VulnCheck Review
 
 > *"The quieter you become, the more you are able to hear."*
 
@@ -72,7 +72,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ### 🏆 Advisories & CVEs
 <details>
-<summary><b><big>🏆 ADVISORIES & CVEs  —  4 PUBLISHED · 3 SuiteCRM Triage · 5 VulnCheck Review · 1 Withdrawn  ▼</big></b></summary>
+<summary><b><big>🏆 ADVISORIES & CVEs  —  4 PUBLISHED · 5 VulnCheck Review · SuiteCRM Batch Withdrawn  ▼</big></b></summary>
 
 ### ✅ PUBLISHED (4 CVEs)
 
@@ -83,22 +83,16 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 | 3 | [CVE-2026-66415](https://www.cve.org/CVERecord?id=CVE-2026-66415) | Leantime ⭐10k+ | SSRF + LFI | 8.8 |
 | 4 | [CVE-2026-66416](https://www.cve.org/CVERecord?id=CVE-2026-66416) | Leantime ⭐10k+ | CSRF Disabled | 8.8 |
 
-### ⏳ SuiteCRM — GitHub Security Advisories (Triage)
+### 🗑️ SuiteCRM — Withdrawn after live re-testing (2026-08-13)
 
-| # | GHSA | Type | CVSS | Internal |
-|---|------|------|------|----------|
-| 1 | GHSA-m4vv-h45q-rvvf | File Upload Case Bypass | 8.8 | SCRMBT-481 |
-| 2 | GHSA-w59p-wvpf-gmm5 | File Upload GD Bypass RCE | 8.8 | SCRMBT-482 |
-| 3 | GHSA-h87x-44w6-3q7f | Unauth XSS (WebToLead) | 8.2 | SCRMBT-483 |
+| GHSA | Type | CVSS | Internal | Why withdrawn |
+|------|------|------|----------|---------------|
+| GHSA-xq73-pwv7-jcvg | Unauth SQLi (GeneratePassword) | 9.8 | SCRMBT-480 | Payload escaped in `retrieve_user_id()`; INSERT unreachable (MySQL general log) |
+| GHSA-m4vv-h45q-rvvf | File Upload Case Bypass | 8.8 | SCRMBT-481 | `strtolower()` applied since 2020; files stored under GUID name |
+| GHSA-w59p-wvpf-gmm5 | File Upload GD Bypass RCE | 8.8 | SCRMBT-482 | Content regex runs before GD check; GD-missing returns `false` since 7.11.x |
+| GHSA-h87x-44w6-3q7f | Unauth XSS (WebToLead) | 8.2 | SCRMBT-483 | voku AntiXSS strips `on*` / `javascript:` (live tested, 8 payload classes) |
 
-<details>
-<summary>🗑️ Withdrawn after live re-test (not exploitable) ▼</summary>
-
-| GHSA | Type | CVSS | Internal | Note |
-|------|------|------|----------|------|
-| GHSA-xq73-pwv7-jcvg | Unauth SQLi (GeneratePassword) | 9.8 | SCRMBT-480 | Live test: payload escaped in `retrieve_user_id()`, INSERT unreachable with tainted input |
-
-</details>
+*All 4 were re-verified against a live SuiteCRM 7.15.1 instance — withdrawn honestly to preserve trust with SuiteCRM and VulnCheck.*
 
 ### ⏳ VulnCheck — Review (July 29)
 
