@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/HTB-Skilled%20%C2%B7%20Lvl%2039-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-f39c12?style=flat-square&logo=hackerone&logoColor=white"/>
   <img src="https://img.shields.io/badge/Disclosure-Responsible-2ea043?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CVEs-4%20PUBLISHED%20%C2%B7%205%20VulnCheck%20%C2%B7%204%20SuiteCRM-critical?style=flat-square&logo=cve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CVEs-4%20PUBLISHED%20%C2%B7%205%20VulnCheck%20%C2%B7%203%20SuiteCRM-critical?style=flat-square&logo=cve&logoColor=white"/>
   <img src="https://img.shields.io/badge/Leantime-Contributor-2ea043?style=flat-square&logo=laravel&logoColor=white"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=javokhir-sec&style=flat-square&color=36BCF7&label=Profile+Views"/>
@@ -34,7 +34,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 - 🎓 **B.Sc. Computer Engineering** — Fergana State Technical University (2020–2025)
 - 🌍 **Based in** Uzbekistan (UTC +05:00)
 - 🏆 **Leantime Contributor** — 5 security PRs submitted to Leantime OSS
-- 📡 **CVE via:** VulnCheck CNA — 4 Published + 5 Review + 4 SuiteCRM Triage
+- 📡 **CVE via:** VulnCheck CNA — 4 Published + 5 Review + 3 SuiteCRM Triage
 
 > *"The quieter you become, the more you are able to hear."*
 
@@ -72,7 +72,7 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 ### 🏆 Advisories & CVEs
 <details>
-<summary><b><big>🏆 ADVISORIES & CVEs  —  4 PUBLISHED · 4 SuiteCRM Triage · 5 VulnCheck Review  ▼</big></b></summary>
+<summary><b><big>🏆 ADVISORIES & CVEs  —  4 PUBLISHED · 3 SuiteCRM Triage · 5 VulnCheck Review · 1 Withdrawn  ▼</big></b></summary>
 
 ### ✅ PUBLISHED (4 CVEs)
 
@@ -87,10 +87,18 @@ I find vulnerabilities, confirm them with working PoCs, and report through
 
 | # | GHSA | Type | CVSS | Internal |
 |---|------|------|------|----------|
-| 1 | GHSA-xq73-pwv7-jcvg | Unauth SQLi (GeneratePassword) | 9.8 | SCRMBT-480 |
-| 2 | GHSA-m4vv-h45q-rvvf | File Upload Case Bypass | 8.8 | SCRMBT-481 |
-| 3 | GHSA-w59p-wvpf-gmm5 | File Upload GD Bypass RCE | 8.8 | SCRMBT-482 |
-| 4 | GHSA-h87x-44w6-3q7f | Unauth XSS (WebToLead) | 8.2 | SCRMBT-483 |
+| 1 | GHSA-m4vv-h45q-rvvf | File Upload Case Bypass | 8.8 | SCRMBT-481 |
+| 2 | GHSA-w59p-wvpf-gmm5 | File Upload GD Bypass RCE | 8.8 | SCRMBT-482 |
+| 3 | GHSA-h87x-44w6-3q7f | Unauth XSS (WebToLead) | 8.2 | SCRMBT-483 |
+
+<details>
+<summary>🗑️ Withdrawn after live re-test (not exploitable) ▼</summary>
+
+| GHSA | Type | CVSS | Internal | Note |
+|------|------|------|----------|------|
+| GHSA-xq73-pwv7-jcvg | Unauth SQLi (GeneratePassword) | 9.8 | SCRMBT-480 | Live test: payload escaped in `retrieve_user_id()`, INSERT unreachable with tainted input |
+
+</details>
 
 ### ⏳ VulnCheck — Review (July 29)
 
